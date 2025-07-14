@@ -7,8 +7,10 @@ Welcome to my engineering portfolio. I am a licensed Professional Electrical Eng
 ## ⚡ About Me
 
 * 🛠️ Marine Electrical Inspector — final sign-off authority for commissioning and delivery
-* 💡 Experienced in HV/LV systems, protection coordination, and industrial automation
-* 🌐 Special interest in SCADA systems, IEC 61850, cybersecurity, and offshore substations (DNV-ST-0145)
+* 🛠️ Professional Engineer (Power) — Licensed from Texas engineering board
+* 🛠️ Professional Project Management (PMP) — Certified by PMI
+* 💡 Experienced in HV/LV systems, protection coordination, integrated automation system, and ship's navigation & telecom system
+* 🌐 Special interest in IAS/SCADA systems, IEC 61850, IEC 60079, cybersecurity, and offshore substations (DNV-ST-0145)
 * 🗂️ Skilled in Smart 3D, NavisWorks, Power BI, SAP, AutoCAD, and advanced MS Excel
 
 ---
