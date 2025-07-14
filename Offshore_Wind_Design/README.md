@@ -29,7 +29,7 @@ Extensive field experience with high-voltage power transformers, especially for 
 - **Operation and troubleshooting** involving fault diagnosis, coordination with suppliers, and on-site resolution  
 - Support for safe energization and integration into offshore substations
 
-### 4. SCADA Integration and Protection Coordination  
+### 4. System Integration and Protection Coordination  
 Practical involvement in SCADA and protection relay systems used in offshore wind and marine electrical infrastructure.
 
 - IEC 61850-based SCADA communication design and validation  
