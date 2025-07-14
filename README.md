@@ -31,6 +31,22 @@ Each item links to a full project documentation page.
 
 ---
 
+## 🧰 Experience
+
+| Company                          | Role                       | Focus                                  |
+|----------------------------------|----------------------------|----------------------------------------|
+| 🌀 “K” Line                      | Electric Superintendent    | Vessel power system, automation        |
+| 🌀 CMA CGM                      | Electric Supervisor        | Inspection, commissioning              |
+| ⚓ AET                           | E&I Supervisor             | Offshore tankers, control panels       |
+| 🔐 DSEC                          | Electric Engineer          | Cable routing, drawing review          |
+| 📊 Technip Energies             | Instrumentation Engineer   | Offshore FPSO, control systems         |
+| ⚙️ AET                          | E&I Engineer               | Hook-up, loop check, pre-commissioning |
+| 🪛 Chevron                       | E&I Field Engineer         | Electrical inspection (onshore)        |
+| 🧪 Technip                      | E&I Field Engineer         | LV panels, hazardous areas             |
+| 🛰️ Hanwha Ocean (ex-DSME)       | Electric Commissioning Eng.| FAT, SAT, switchgear energization      |
+
+---
+
 ## 📁 Repositories
 
 Here are some of my technical contributions:
