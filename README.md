@@ -17,33 +17,44 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 ## 🏗️ Selected Projects
 
-Here is a brief list of my recent engineering projects.  
-Each item links to a full project documentation page.
+Here is a curated list of engineering projects with technical documentation:
 
-- 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
-- ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
-- 🔐 [Cybersecurity for SCADA Systems](./Cybersecurity_SCADA/README.md)
-- 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
-- ⚙️ [PLC Tag Automation Tool](./PLC_Tag_Automation_Tool/README.md)
-- 🪛 [Commissioning & Inspection](./Commissioning_Inspection/README.md)
-- 🧪 [Hazardous Area Equipment Review](./Hazardous_Area_Review/README.md)
-- 🛰️ [Telecom & NAV System Integration](./Telecom_NAV_Integration/README.md)
+* 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
+  *Design of HVAC/HVDC topology, IEC 61850, and SCADA architecture*
+
+* ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
+  *3D cable routing validation and drawing approval using Smart 3D*
+
+* 🔐 [SCADA Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
+  *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
+
+* 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
+  *Relay setting validation and fault coordination using ETAP*
+
+* 🪛 [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
+  *Final inspection, FAT, and punchlist handling for MV/LV panels*
+
+* 🧪 [Hazardous Area Equipment Validation](./Hazardous_Zone_Review/README.md)
+  *Validation of Ex-certified equipment and zone compliance (IECEx CoPC)*
+
+* 🛰️ [Integrated NAV/Telecom System Deployment](./Telecom_NAV_Integration/README.md)
+  *System integration of radar, AIS, GPS, and internal communications*
 
 ---
 
 ## 🧰 Experience
 
-| Company                          | Role                       | Focus                                  |
-|----------------------------------|----------------------------|----------------------------------------|
-| 🌀 “K” Line                      | Electric Superintendent    | Vessel power system, automation        |
-| 🌀 CMA CGM                      | Electric Supervisor        | Inspection, commissioning              |
-| ⚓ AET                           | E&I Supervisor             | Offshore tankers, control panels       |
-| 🔐 DSEC                          | Electric Engineer          | Cable routing, drawing review          |
-| 📊 Technip Energies             | Instrumentation Engineer   | Offshore FPSO, control systems         |
-| ⚙️ AET                          | E&I Engineer               | Hook-up, loop check, pre-commissioning |
-| 🪛 Chevron                       | E&I Field Engineer         | Electrical inspection (onshore)        |
-| 🧪 Technip                      | E&I Field Engineer         | LV panels, hazardous areas             |
-| 🛰️ Hanwha Ocean (ex-DSME)       | Electric Commissioning Eng.| FAT, SAT, switchgear energization      |
+| Company                  | Project                            | Role                        | Focus & Scope                                                                               |
+| ------------------------ | ---------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
+| 🚢 "K" Line              | Qatar LNG vessel newbuild          | Electric Superintendent     | FAT, drawing approval, I/O test, Site inspection, LNG process test                          |
+| 🛳️ CMA CGM              | LNG Fuel Container vessel newbuild | Electric Supervisor         | Inspection, troubleshooting, delivery management, Fuel Gas handling process confirmation    |
+| ⚓ AET                    | LNG Fuel VLCC newbuild             | E\&I Supervisor             | Control panels, interface check, Quality inspection, Fuel Gas handling process confirmation |
+| 🛠️ DSEC                 | US Navy multipurpose ship          | Electric Engineer           | Cable routing, 3D model review and update, documentation                                    |
+| 🏗️ Technip Energies     | Coral-Sul FLNG                     | Instrumentation Engineer    | FLNG instrumentation system design, Field engineering                                       |
+| ⚙️ AET                   | DP Shuttle tankers                 | E\&I Engineer               | Electrical QA/QC inspection, Dynamic Positioning system                                     |
+| 🧰 Chevron               | Tengizchevroil FGP-WPMP project    | E\&I Field Engineer         | Electrical field engineering, Drawing update                                                |
+| 🧪 Technip               | Shell Prelude                      | E\&I Field Engineer         | Hazardous area compliance, LV/MV panel check                                                |
+| ⚓ Hanwha Ocean (ex-DSME) | Various newbuild ships             | Electric Commissioning Eng. | FAT/SAT, energization, relay testing                                                        |
 
 ---
 
