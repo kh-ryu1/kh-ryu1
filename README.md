@@ -6,27 +6,28 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 ## 🧩 Professional Summary
 
-* 🔧 Marine Electrical Inspector — final sign-off authority for commissioning and delivery
-* 📐 Licensed Professional Engineer (Power) — Registered in Texas, USA
-* 📊 Certified Project Management Professional (PMP) — Credentialed by PMI
-* ⚙️ Experienced in HV/LV systems, protection coordination, automation systems, and shipboard communication & navigation systems
-* 🛰️ Strong interest in SCADA/IAS systems, IEC 61850, IEC 60079, cybersecurity, and offshore substations (DNV-ST-0145)
-* 💻 Proficient with SP3D, NavisWorks, Power BI, SAP, AutoCAD, and advanced Microsoft Excel
+* 🔧 Marine Electrical Inspector — final sign-off authority for commissioning and delivery  
+* 📐 Licensed Professional Engineer (Power) — Registered in Texas, USA  
+* 📊 Certified Project Management Professional (PMP) — Credentialed by PMI  
+* ⚙️ Experienced in HV/LV systems, protection coordination, automation systems, and shipboard communication & navigation systems  
+* 🛰️ Strong interest in SCADA/IAS systems, IEC 61850, IEC 60079, cybersecurity, and offshore substations (DNV-ST-0145)  
+* 💻 Proficient with SP3D, NavisWorks, Power BI, SAP, AutoCAD, and advanced Microsoft Excel  
 
 ---
 
-## 🔧 Key Projects
+## 🏗️ Selected Projects
 
-| Project                                  | Description                                                                 | Tools                    |
-| ---------------------------------------- | --------------------------------------------------------------------------- | ------------------------ |
-| 🌀 **Offshore Wind  Design**             | Deep knowledge in HVDC, HVAC, and integration for offshore wind substations | Thesis, Academic project |
-| ⚓ **US Navy Vessel Electrical Review**   | Cable routing, drawing approval, and 3D model coordination                  | Smart 3D, AutoCAD        |
-| 🔐 **Cybersecurity Framework for SCADA** | Summarized IEC 62443 & NIST 800-82, and developed secure architecture       | Certificate              |
-| 📊 **Protection Coordination Study**     | Relay settings validation and protection study reports                      | ETAP, Excel              |
-| ⚙️ **PLC Tag Automation Tool**           | Built automated generator for PLC taglists                                  | Python, CSV, WinCC       |
-| 🪛 **Commissioning & Inspection**        | Electrical inspection of switchboards, transformers, and cables             | Checklists, Photos       |
-| 🧪 **Hazardous Area Equipment Review**   | Verified Ex-rated devices and zoning compliance per IEC 60079               | IECEx CoPC certificate   |
-| 🛰️ **Telecom/NAV System Integration**   | Integrated radar, VHF, AIS, GPS, and internal communication systems         | SAP, Excel, Layout Draws |
+Here is a brief list of my recent engineering projects.  
+Each item links to a full project documentation page.
+
+- 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
+- ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
+- 🔐 [Cybersecurity for SCADA Systems](./Cybersecurity_SCADA/README.md)
+- 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
+- ⚙️ [PLC Tag Automation Tool](./PLC_Tag_Automation_Tool/README.md)
+- 🪛 [Commissioning & Inspection](./Commissioning_Inspection/README.md)
+- 🧪 [Hazardous Area Equipment Review](./Hazardous_Area_Review/README.md)
+- 🛰️ [Telecom & NAV System Integration](./Telecom_NAV_Integration/README.md)
 
 ---
 
@@ -34,17 +35,17 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 Here are some of my technical contributions:
 
-* [`/Substation_Protection_Study`](https://github.com/<your-username>/Substation_Protection_Study): Relay settings, SLDs, and coordination reports
-* [`/Python_Engineering_Tools`](https://github.com/<your-username>/Python_Engineering_Tools): Scripts for automating engineering documentation and analysis
-* [`/Cybersecurity_WindFarm`](https://github.com/<your-username>/Cybersecurity_WindFarm): IEC 62443 & NIST 800-82 summaries and SCADA network architecture diagrams
+- [`/Substation_Protection_Study`](https://github.com/<your-username>/Substation_Protection_Study): Relay settings, SLDs, and coordination reports  
+- [`/Python_Engineering_Tools`](https://github.com/<your-username>/Python_Engineering_Tools): Scripts for automating engineering documentation and analysis  
+- [`/Cybersecurity_WindFarm`](https://github.com/<your-username>/Cybersecurity_WindFarm): IEC 62443 & NIST 800-82 summaries and SCADA network architecture diagrams  
 
 ---
 
 ## 📢 Contact
 
-* 📧 Email: [khyun7.ryu@gmail.com](mailto:khyun7.ryu@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/kwanghyun-ryu-2aab86a0](https://linkedin.com/in/kwanghyun-ryu-2aab86a0)
-* 📍 Based in Korea | Open to international opportunities
+* 📧 Email: [khyun7.ryu@gmail.com](mailto:khyun7.ryu@gmail.com)  
+* 💼 LinkedIn: [linkedin.com/in/kwanghyun-ryu-2aab86a0](https://linkedin.com/in/kwanghyun-ryu-2aab86a0)  
+* 📍 Based in Korea | Open to international opportunities  
 
 ---
 
