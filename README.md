@@ -40,7 +40,7 @@ Here is a curated list of engineering projects with technical documentation:
 * 🛰️ [Integrated NAV/Telecom System Deployment](./Telecom_NAV_Integration/README.md)
   *System integration of radar, AIS, GPS, and internal communications*
 
-* 🛰️ [Detail Work Experiences](./Detail_Experiences/README.md)
+* 🎯 [Detail Work Experiences](./Detail_Experiences/README.md)
   
   
 ---
