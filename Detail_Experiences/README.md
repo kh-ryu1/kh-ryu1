@@ -5,7 +5,7 @@
 | 2025.02–Present | 🚢 "K" Line              | Qatar LNG vessel newbuild        | Electric Superintendent     | - FAT, drawing approval  
                                                                                                                - LNG process test  
                                                                                                                - Electrical QA/QC inspection  
-                                                                                                               - I/O test                           |
+                                                                                                               - I/O test                                   |
 | 2023.10–2024.12 | 🛳️ CMA CGM              | LNG Fuel Container vessel        | Electric Supervisor         | - Electrical QA/QC inspection  
                                                                                                                - Troubleshooting  
                                                                                                                - Delivery management  
