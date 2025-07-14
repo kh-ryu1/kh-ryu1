@@ -1,6 +1,6 @@
 # 👋 Hi, I'm KH Ryu — Electrical Engineer (PE, PMP®)
 
-Welcome to my engineering portfolio. I am a licensed Professional Engineer with over 15 years of multidisciplinary experience across shipbuilding, offshore oil & gas, and offshore wind industries. I specialize in power system design, integrated automation systems, inspection & commissioning, and cybersecurity for critical infrastructure.
+Welcome to my engineering portfolio. I am a licensed Professional Engineer with over 15 years of multidisciplinary experience across shipbuilding, offshore oil & gas, and offshore wind industries. I specialize in power system design, integrated automation systems, inspection & commissioning, and cybersecurity for marine industry.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 * 📊 Certified Project Management Professional (PMP®) — Credentialed by PMI  
 * ⚙️ Experienced in HV/LV systems, protection coordination, automation systems, and shipboard communication & navigation systems  
 * 🛰️ Strong interest in SCADA/IAS systems, IEC 61850, IEC 60079, cybersecurity, and offshore substations (DNV-ST-0145)  
-* 💻 Proficient with SP3D, NavisWorks, Power BI, SAP, AutoCAD, and advanced Microsoft Excel  
+* 💻 Proficient with Power BI, SP3D NavisWorks, SAP, AutoCAD, and advanced Microsoft Excel  
 
 ---
 
