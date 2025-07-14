@@ -37,7 +37,4 @@ Currently studying **DNV-ST-0145**, the offshore substation standard used in off
 - 📄 [`Final Report – Offshore Wind Feasibility in Geoje`](../assets/feasibility_report.pdf)  
 - 📄 [`Graduation Thesis – Optimal Grid Connection`](../assets/graduation_thesis_hvdc.pdf)
 
-## ✏️ Author
 
-KH Ryu – BSc in Electrical Engineering, Korea Cyber University  
-Contact: [GitHub Profile](https://github.com/KHRyu)
