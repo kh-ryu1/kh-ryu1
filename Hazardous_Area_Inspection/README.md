@@ -1,6 +1,6 @@
 ### 🛡️ Hazardous Area Equipment Validation  
-**Role:** Marine Electrical Inspector / Ex Equipment Specialist  
-**Certifications:** IECEx CoPC (Ex 001–009), EEHA Certified, ATEX Competency Certified  
+**Role:** Electric Superintendent / Instrumentation Engineer  
+**Certifications:** IECEx CoPC (Ex 001,004,007,008), EEHA Certified, ATEX Competency Certified  
 
 **Scope of Work:**  
 - **Hazardous Area Classification Review:** Verified equipment installation against **IEC 60079** and class society (ABS, DNV) hazardous area classification (Zone 0, Zone 1, Zone 2).  
