@@ -22,10 +22,10 @@ Here is a curated list of engineering projects with technical documentation:
 * 🛢️ [LNG Facility Electrical Design and Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
 Instrumentation & telecom system design, and commissioning of power distribution and LNG carrier equipment
 
-* ⚙️ [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
+* 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
 Design and commissioning of IAS, F&G, and ESD logic validation
     
-* 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
+* ⚡ [Protection Coordination Study](./Protection_Coordination_Study/README.md)
   *Relay setting validation and fault coordination*
 
 * 🪛 [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
