@@ -28,7 +28,7 @@ Design and commissioning of IAS, F&G, and ESD logic validation
 * ⚡ [Protection Coordination Study](./Protection_Coordination_Study/README.md)
   *Relay setting validation and fault coordination*
 
-* 🪛 [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
+* ⚙️ [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
   *Final inspection, FAT, and punchlist handling for MV/LV panels*
 
 * 🛡️ [Hazardous Area Equipment Validation](./Hazardous_Area_Inspection/README.md)
