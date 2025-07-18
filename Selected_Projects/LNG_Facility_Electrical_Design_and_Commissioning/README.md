@@ -3,15 +3,14 @@
 ## Project Overview  
 These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and emergency power supply.
 
-Maran gas LNG Carriers (3 ships)
-
-Korea line LNG Carrier (1 ships)
-Awilco LNG Carrier (1 ships)
-Shell Prelude FLNG
-Eni Coral-Sul FLNG
-AET Neptune LNG Fuel VLCCs (3 ships)
-CMA CGM LNG Fuel 7.3K TEU Containerships (10 ships)
-NYK LNG Carriers (7 ships)
+- Maran gas LNG Carriers (3 ships)
+- Korea line LNG Carrier (1 ships)
+- Awilco LNG Carrier (1 ships)
+- Shell Prelude FLNG
+- Eni Coral-Sul FLNG
+- AET Neptune LNG Fuel VLCCs (3 ships)
+- CMA CGM LNG Fuel 7.3K TEU Containerships (10 ships)
+- NYK LNG Carriers (7 ships)
 
 ## Roles  
 - Instrumentation & Telecom Design Engineer  
