@@ -21,7 +21,9 @@ Here is a curated list of engineering projects with technical documentation:
 
 * [LNG_Facility_Electrical_Design_and_Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
 
-  
+* [IAS_and_Safety_System_Engineering_and_Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
+
+    
 * 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
   *Relay setting validation and fault coordination*
 
