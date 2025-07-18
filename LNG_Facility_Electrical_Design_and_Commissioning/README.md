@@ -15,7 +15,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
 ## Roles  
 - Instrumentation & Telecom Design Engineer  
 - Electrical Commissioning Engineer  
-- Supervisor / Superintendent (Quality Inspection & Site Supervision)
+- Electrical Supervisor / Superintendent 
 
 ## Scope of Work  
 ### 1. Design Engineering  
@@ -24,7 +24,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
 
 ### 2. Commissioning  
 - Conducted loop checks, insulation resistance tests, and functional testing of LV/MV switchboards, transformers, and emergency power systems.  
-- Commissioned **High/Low-Pressure Compressors (HP/LP)**, **Cargo Tank Sensors (CTS)**, and **Cargo Management Systems (CMS)**, validating control logic, interlocks, and alarm sequences.
+- Commissioned **High/Low-Duty Compressors (HD/LD)**, **Custody Transfer System (CTS)**, and **Cargo Management Systems (CMS)**, validating control logic, interlocks, and alarm sequences.
 
 ### 3. Quality Supervision  
 - Performed on-site quality inspections for electrical and instrumentation installation, ensuring conformity with approved drawings and international standards.  
