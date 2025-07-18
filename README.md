@@ -29,7 +29,7 @@ Here is a curated list of engineering projects with technical documentation:
   *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
 
 * 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
-  *Relay setting validation and fault coordination using ETAP*
+  *Relay setting validation and fault coordination*
 
 * 🪛 [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
   *Final inspection, FAT, and punchlist handling for MV/LV panels*
