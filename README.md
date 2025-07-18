@@ -19,15 +19,6 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 Here is a curated list of engineering projects with technical documentation:
 
-* 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
-  *Design of HVAC/HVDC topology, IEC 61850, and SCADA architecture*
-
-* ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
-  *Philly Shipyard New shipbuilding project*
-
-* 🔐 [SCADA Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
-  *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
-
 * 📊 [Protection Coordination Study](./Protection_Coordination_Study/README.md)
   *Relay setting validation and fault coordination*
 
@@ -39,6 +30,15 @@ Here is a curated list of engineering projects with technical documentation:
 
 * 🛰️ [Integrated NAV/Telecom System Deployment](./Telecom_NAV_Integration/README.md)
   *System integration of radar, AIS, GPS, and internal communications*
+
+* ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
+  *Philly Shipyard New shipbuilding project*
+
+* 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
+  *Design of HVAC/HVDC topology, IEC 61850, and SCADA architecture*
+
+* 🔐 [SCADA Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
+  *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
 
 * 🎯 [Detail Work Experiences](./Detail_Experiences/README.md)
   
