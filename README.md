@@ -34,7 +34,7 @@ Here is a curated list of engineering projects with technical documentation:
 * 🪛 [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
   *Final inspection, FAT, and punchlist handling for MV/LV panels*
 
-* 🧪 [Hazardous Area Equipment Validation](./Hazardous_Zone_Review/README.md)
+* 🧪 [Hazardous Area Equipment Validation](./Hazardous_Area_Inspection/README.md)
   *Validation of Ex-certified equipment and zone compliance (IECEx CoPC)*
 
 * 🛰️ [Integrated NAV/Telecom System Deployment](./Telecom_NAV_Integration/README.md)
