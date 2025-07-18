@@ -20,15 +20,15 @@ These projects involved the detailed electrical design and commissioning of LNG 
 ## Scope of Work  
 ### 1. Design Engineering  
 - Designed instrumentation and telecom systems for LNG processing facilities and LNG carriers, ensuring integration with power distribution and control networks.  
-- Reviewed vendor drawings and ensured compliance with **IEC 61850**, **NFPA 59A**, and class society requirements.  
+- Reviewed vendor drawings and ensured compliance with IEC 61850, and class society requirements.  
 
 ### 2. Commissioning  
 - Conducted loop checks, insulation resistance tests, and functional testing of LV/MV switchboards, transformers, and emergency power systems.  
-- Commissioned **High/Low-Duty Compressors (HD/LD)**, **Custody Transfer System (CTS)**, and **Cargo Management Systems (CMS)**, validating control logic, interlocks, and alarm sequences.
+- Commissioned High/Low-Duty Compressors (HD/LD), Custody Transfer System (CTS), and Cargo Management Systems (CMS), validating control logic, interlocks, and alarm sequences.
 
 ### 3. Quality Supervision  
 - Performed on-site quality inspections for electrical and instrumentation installation, ensuring conformity with approved drawings and international standards.  
-- Supervised cable laying, termination, and gland installation to maintain **Ex equipment compliance (IEC 60079)** in hazardous areas.  
+- Supervised cable laying, termination, and gland installation to maintain Ex equipment compliance (IEC 60079) in hazardous areas.  
 - Verified FAT/SAT procedures and punchlist clearance before final acceptance.  
 - Coordinated with contractors and vendors to resolve non-conformities and documented quality control records.
 
