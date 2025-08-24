@@ -10,6 +10,10 @@ These projects involved the detailed electrical design and commissioning of LNG 
 - Eni Coral-Sul FLNG
 - AET Neptune LNG Fuel VLCCs (3 ships)
 - CMA CGM LNG Fuel 7.3K TEU Containerships (10 ships)
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_4042.PNG" alt="My photo" width="600">
+</p>
+ 
 - NYK LNG Carriers (7 ships)
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/DJI_0339.jpg" alt="Qatar Energy NYKJV LNG Carrier" width="600">
