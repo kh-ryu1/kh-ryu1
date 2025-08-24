@@ -12,7 +12,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
 - CMA CGM LNG Fuel 7.3K TEU Containerships (10 ships)
 - NYK LNG Carriers (7 ships)
 <p align="center">
-  <img src="profile.jpg" alt="My photo" width="200">
+  <img src="profile.jpg" alt="Qatar Energy NYKJV LNG Carrier" width="200">
 </p>
 
 ## Roles  
