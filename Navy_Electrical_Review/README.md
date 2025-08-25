@@ -12,3 +12,10 @@
 - Optimized cable routing for navigation sensors, reducing **EMI** (Electromagnetic Interference) risk and improving system reliability.  
 - Ensured full compliance with **MIL-STD-461** (EMC) and **IEC 60945** (Marine navigation & radiocommunication equipment) standards.  
 - Successfully supported on-time vessel delivery by resolving multiple integration issues during commissioning.  
+
+
+[![Patriot State Delivery](https://www.phillyshipyard.com/philly-shipyard-nsmv-2/)](https://www.phillyshipyard.com/philly-shipyard-nsmv-2/)
+<br>
+<img src="https://www.phillyshipyard.com/philly-shipyard-nsmv-2/" width="600">
+
+**Patriot State** is the second National Security Multi-Mission Vessel (NSMV) for the U.S. Maritime Academy, recently delivered by Philly Shipyard. This state-of-the-art training ship features advanced educational and disaster-response capabilities, accommodating up to 600 cadets and including hospital facilities and a helicopter landing deck.
