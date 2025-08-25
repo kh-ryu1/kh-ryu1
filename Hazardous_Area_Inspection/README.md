@@ -17,7 +17,7 @@
 - Improved inspection efficiency by implementing a **standardized Ex equipment checklist**, reducing verification time by ~20%.  
 - Ensured 100% compliance with **IECEx / ATEX** and class requirements before vessel delivery and offshore commissioning.  
 
-**Site Photos:**
+**Certificate of Personnel Competence:**
 
 <p align="center">
   <img src="/Hazardous_Area_Inspection/images/1756087923666-56b1e666-ba4e-4f9e-8aad-c6ef7b46b6a10043_000_1.jpg" alt="Switchboard" width="600">
