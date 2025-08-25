@@ -20,7 +20,7 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 Here is a curated list of engineering projects with technical documentation:
 
 * 🛢️ [LNG Facility Electrical Design and Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
-  *Electric, Instrument & Telecom system design, and commissioning of LNG facility projects*
+  *Electric, Instrument & Telecom design, and commissioning of LNG facility projects*
 
 * 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
   *Design and commissioning of IAS, F&G, and ESD logic validation*
