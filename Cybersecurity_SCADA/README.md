@@ -4,7 +4,7 @@
 
 Developed secure SCADA architecture and compliance mapping for critical infrastructure.
 
-** Certificate of Personnel Competency
+** Certificate of Personnel Competency **
 
 <p align="center">
   <img src="/Cybersecurity_SCADA/Maritime Cyber Security.jpg" alt="Switchboard" width="600">
