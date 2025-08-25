@@ -16,3 +16,13 @@
 - Identified **non-compliant cable gland installations** in Zone 1 areas, preventing potential gas ingress and ignition risks.  
 - Improved inspection efficiency by implementing a **standardized Ex equipment checklist**, reducing verification time by ~20%.  
 - Ensured 100% compliance with **IECEx / ATEX** and class requirements before vessel delivery and offshore commissioning.  
+
+**Site Photos:**
+
+<p align="center">
+  <img src="/Hazardous_Area_Inspection/images/1756087923666-56b1e666-ba4e-4f9e-8aad-c6ef7b46b6a10043_000_1.jpg" alt="Switchboard" width="600">
+</p>
+
+<p align="center">
+  <img src="/Hazardous_Area_Inspection/images/1756088162445-5e8f5343-50c4-4286-ab12-c1ecd3cd869a_1.jpg" alt="Switchboard" width="600">
+</p>
