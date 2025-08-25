@@ -29,12 +29,13 @@ Engineering and commissioning of Integrated Automation Systems (IAS) and critica
     <a href="./Drillship Integrated Automation System Topology.pdf" target="_blank"><strong>Drillship Integrated Automation System Topology.pdf</strong></a>
   </p>
 </div>
-
-- [FAT & SAT Reports](./FAT_SAT_Reports.pdf)
 - <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
   <p style="font-size:16px; margin-top:10px;">
-    Architecture document for the Safety System Drillship Commissioning project: 
-    <a href="./GB10116-NA_ARCHITECTURE_REV_8.pdf" target="_blank"><strong>GB10116-NA_ARCHITECTURE_REV_8.pdf</strong></a>
+    Architecture document for the Safety Integrated System Drillship Commissioning project: 
+    <a href="./Drillship Safety Integrated System Topology.pdf.pdf" target="_blank"><strong>Drillship Safety Integrated System Topology.pdf.pdf</strong></a>
   </p>
 </div>
+
+
+- [FAT & SAT Reports](./FAT_SAT_Reports.pdf)
 
