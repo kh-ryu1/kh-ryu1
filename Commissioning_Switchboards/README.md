@@ -18,9 +18,7 @@
 - Identified and corrected multiple misconfigured protection relay settings during FAT, preventing potential nuisance tripping.  
 - Contributed to on-time vessel delivery by ensuring all switchboards passed FAT and commissioning without major non-conformities.  
 
----
-
-## 📷 Site Photos
+**📷 Site Photos:**  
 
 <p align="center">
   <img src="/Commissioning_Switchboards/images/4e9119d7-b404-4c93-b7d3-1a2831de2643.JPG" alt="My photo" width="600">
