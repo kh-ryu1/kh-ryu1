@@ -24,5 +24,5 @@ Engineering and commissioning of Integrated Automation Systems (IAS) and critica
 
 ## Related Documents  
 - [Automation System Architecture](./Automation_Architecture.pdf)  
-- [Safety Logic Diagrams](./Safety_Logic.pdf)  
+- [Safety Logic Diagrams](./IAS_and_Safety_System_Engineering_and_Commissioning/GB10116-NA_ARCHITECTURE_REV_8.pdf)  
 - [FAT & SAT Reports](./FAT_SAT_Reports.pdf)
