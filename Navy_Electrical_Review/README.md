@@ -13,6 +13,8 @@
 - Ensured full compliance with **MIL-STD-461** (EMC) and **IEC 60945** (Marine navigation & radiocommunication equipment) standards.  
 - Successfully supported on-time vessel delivery by resolving multiple integration issues during commissioning.  
 
+**Article:**  
+
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
   <a href="https://www.phillyshipyard.com/philly-shipyard-nsmv-2/" target="_blank">
     <img src="https://www.phillyshipyard.com/wp-content/uploads/2023/06/NSMV2-ship-image.jpg" width="600" style="border-radius:10px;">
