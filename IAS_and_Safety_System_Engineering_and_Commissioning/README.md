@@ -53,3 +53,7 @@ Engineering and commissioning of Integrated Automation Systems (IAS) and critica
 <p align="center">
   <img src="/IAS_and_Safety_System_Engineering_and_Commissioning/images/IMG_3915.JPG" alt="My photo" width="600">
 </p>
+
+<p align="center">
+  <img src="/IAS_and_Safety_System_Engineering_and_Commissioning/images/IMG_0163.JPG" alt="My photo" width="600">
+</p>
