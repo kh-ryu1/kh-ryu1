@@ -20,10 +20,10 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 Here is a curated list of engineering projects with technical documentation:
 
 * 🛢️ [LNG Facility Electrical Design and Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
-Instrumentation & telecom system design, and commissioning of power distribution and LNG carrier equipment
+  *Instrumentation & telecom system design, and commissioning of power distribution and LNG carrier equipment*
 
 * 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
-Design and commissioning of IAS, F&G, and ESD logic validation
+  *Design and commissioning of IAS, F&G, and ESD logic validation*
     
 * ⚡ [Protection Coordination Study](./Protection_Coordination_Study/README.md)
   *Relay setting validation and fault coordination*
@@ -43,7 +43,7 @@ Design and commissioning of IAS, F&G, and ESD logic validation
 * 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
   *Design of HVAC/HVDC topology, IEC 61850, and SCADA architecture*
 
-* 🔐 [SCADA Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
+* 🔐 [Marine Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
   *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
 
 * 🎯 [Detail Work Experiences](./Detail_Experiences/README.md)
