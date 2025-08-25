@@ -5,7 +5,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
 
 - Maran gas LNG Carriers (3 ships)
 - Korea line LNG Carrier (1 ships)
-- Awilco LNG Carrier (1 ships)
+- Awilco LNG Carrier (1 ship)
 - Shell Prelude FLNG
 - Eni Coral-Sul FLNG
 <p align="center">
