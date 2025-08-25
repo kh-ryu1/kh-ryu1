@@ -37,6 +37,11 @@ Engineering and commissioning of Integrated Automation Systems (IAS) and critica
   </p>
 </div>
 
+- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
+  <p style="font-size:16px; margin-top:10px;">
+    FAT Report_Software stabilization work through preparation for F&G, ESD FAT on the drillship project: 
+    <a href="./FAT Report_Software stabilization work through preparation for F&G, ESD FAT on the drillship.pdf" target="_blank"><strong>FAT Report_Software stabilization work through preparation for F&G, ESD FAT on the drillship.pdf</strong></a>
+  </p>
+</div>
 
-- [FAT & SAT Reports](./FAT_SAT_Reports.pdf)
 
