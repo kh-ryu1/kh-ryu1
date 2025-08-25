@@ -1,6 +1,7 @@
 # ⚡ Protection Coordination Study  
 
-## Role: Electric Commissioning Engineer, Electric Superintendent  
+## Role: 
+Electric Commissioning Engineer, Electric Superintendent  
 
 ## Scope of Work:  
 - **Relay Setting & Selectivity Analysis**: Performed **protection relay coordination** for LV/MV switchboards and power distribution systems, ensuring proper time-current selectivity between upstream and downstream protective devices.  
