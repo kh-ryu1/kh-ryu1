@@ -1,7 +1,9 @@
-### ⚙️ Commissioning & FAT for Switchboards  
-**Role:** Electric Superintendent / Electric Commissioning Engineer  
+# ⚙️ Commissioning & FAT for Switchboards  
 
-**Scope of Work:**  
+## Role: 
+Electric Superintendent / Electric Commissioning Engineer  
+
+## Scope of Work:  
 - **Factory Acceptance Test (FAT):**  
   - Witnessed and verified **functional, insulation resistance, and high-potential (Hi-Pot) tests** for LV/MV switchboards.  
   - Checked **busbar alignment, thermal withstand capability, and protection relay settings** in compliance with **IEC 61439** and class society (ABS, DNV) standards.  
@@ -13,19 +15,19 @@
   - Carried out **load transfer, blackout recovery, and emergency generator synchronization tests** to ensure operational reliability.  
   - Coordinated with vendors and shipyard teams to resolve wiring and interlock discrepancies before vessel delivery.  
 
-**Main Inspection & Test Items:**
+## Main Inspection & Test Items:
 - Insulation Resistance Measurement  
 - Functional Testing of Switchboard Circuits  
 - Protection Relay Testing  
 - Verification of Meters and Control Devices  
 - Cable Termination Tightness and Labeling Check  
 
-**Key Achievements:**  
+## Key Achievements:  
 - Reduced commissioning delays by implementing a **standardized inspection checklist**, improving troubleshooting efficiency.  
 - Identified and corrected multiple misconfigured protection relay settings during FAT, preventing potential nuisance tripping.  
 - Contributed to on-time vessel delivery by ensuring all switchboards passed FAT and commissioning without major non-conformities.  
 
-**📷 Site Photos:**  
+## 📷 Site Photos:  
 
 <p align="center">
   <img src="/Commissioning_Switchboards/images/4e9119d7-b404-4c93-b7d3-1a2831de2643.JPG" alt="My photo" width="600">
