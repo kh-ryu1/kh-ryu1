@@ -1,4 +1,4 @@
-### 🛡️ Hazardous Area Equipment Validation  
+# 🛡️ Hazardous Area Equipment Validation  
 **Role:** Electric Superintendent / Instrumentation Engineer  
 **Certifications:** IECEx CoPC (Ex 001,004,007,008), EEHA Certified, ATEX Competency Certified  
 
