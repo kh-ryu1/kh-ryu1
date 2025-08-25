@@ -17,3 +17,27 @@
 - Reduced commissioning delays by implementing a **standardized inspection checklist**, improving troubleshooting efficiency.  
 - Identified and corrected multiple misconfigured protection relay settings during FAT, preventing potential nuisance tripping.  
 - Contributed to on-time vessel delivery by ensuring all switchboards passed FAT and commissioning without major non-conformities.  
+
+---
+
+## 📷 Site Photos
+
+<p align="center">
+  <img src="/Commissioning_Switchboards/images/4e9119d7-b404-4c93-b7d3-1a2831de2643.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Commissioning_Switchboards/images/IMG_6061.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Commissioning_Switchboards/images/IMG_7148.HEIC_20250825_092723.606.jpg" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Commissioning_Switchboards/images/IMG_7614.HEIC_20250825_092734.263.jpg" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Commissioning_Switchboards/images/IMG_9916.HEIC_20250825_092741.654.jpg" alt="My photo" width="600">
+</p>
