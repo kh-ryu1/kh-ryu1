@@ -13,6 +13,13 @@
   - Carried out **load transfer, blackout recovery, and emergency generator synchronization tests** to ensure operational reliability.  
   - Coordinated with vendors and shipyard teams to resolve wiring and interlock discrepancies before vessel delivery.  
 
+**Main Inspection & Test Items:**
+- Insulation Resistance Measurement  
+- Functional Testing of Switchboard Circuits  
+- Protection Relay Testing  
+- Verification of Meters and Control Devices  
+- Cable Termination Tightness and Labeling Check  
+
 **Key Achievements:**  
 - Reduced commissioning delays by implementing a **standardized inspection checklist**, improving troubleshooting efficiency.  
 - Identified and corrected multiple misconfigured protection relay settings during FAT, preventing potential nuisance tripping.  
