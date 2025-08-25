@@ -26,3 +26,10 @@ Engineering and commissioning of Integrated Automation Systems (IAS) and critica
 - [Automation System Architecture](./Automation_Architecture.pdf)  
 - [Safety Logic Diagrams](./IAS_and_Safety_System_Engineering_and_Commissioning/GB10116-NA_ARCHITECTURE_REV_8.pdf)  
 - [FAT & SAT Reports](./FAT_SAT_Reports.pdf)
+- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
+  <p style="font-size:16px; margin-top:10px;">
+    Architecture document for the IAS and Safety System Engineering and Commissioning project: 
+    <a href="./GB10116-NA_ARCHITECTURE_REV_8.pdf" target="_blank"><strong>GB10116-NA_ARCHITECTURE_REV_8.pdf</strong></a>
+  </p>
+</div>
+
