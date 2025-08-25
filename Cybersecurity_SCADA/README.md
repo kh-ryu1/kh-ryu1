@@ -1,4 +1,4 @@
-# 🔐 Marine Cybersecurity Framework
+# 🔐 Maritime Cybersecurity Framework
 
 *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
 
