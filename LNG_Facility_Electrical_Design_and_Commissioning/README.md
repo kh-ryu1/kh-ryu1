@@ -8,6 +8,10 @@ These projects involved the detailed electrical design and commissioning of LNG 
 - Awilco LNG Carrier (1 ships)
 - Shell Prelude FLNG
 - Eni Coral-Sul FLNG
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/DJI_0399.MP4_000028395 (2).jpg" alt="My photo" width="600">
+</p>
+
 - AET Neptune LNG Fuel VLCCs (3 ships)
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/JUNG9141.JPG" alt="My photo" width="600">
