@@ -1,5 +1,12 @@
 # 🛡️ Hazardous Area Equipment Validation  
 
+## Project Overview  
+Hazardous area clarification and Ex inspection were carried out, including a detailed site survey in accordance with IECEx requirements. Activities ensured proper classification, equipment compliance, and safety assurance in explosion-risk zones.
+- AET DP Shuttle Tanker
+- Eni Coral-Sul FLNG (Floating Liquefied Natural Gas)
+- AET LNG Fuel VLCC newbuild
+- CMA CGM LNG Fuel Container vessel
+
 ## Role: 
 Electric Superintendent / Instrumentation Engineer  
 
