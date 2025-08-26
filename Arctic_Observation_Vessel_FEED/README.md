@@ -6,7 +6,7 @@ The project aimed to establish a robust design foundation for an advanced resear
 
 - Arctic-class Research Icebreaker FEED Study  
 <p align="center">
-  <img src="/Arctic_Observation_Vessel_FEED/images/IMG_5450.PNG" alt="Arctic Observation Vessel Concept" width="600">
+  <img src="/Arctic_Observation_Vessel_FEED/images/IMG_5450.PNG" alt="Arctic Observation Vessel Concept" width="800">
 </p>
 
 ## Roles  
