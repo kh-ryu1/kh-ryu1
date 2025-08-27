@@ -9,7 +9,7 @@ The projects focused on ensuring safe navigation, reliable communication, and se
 - U.S. Navy NSMV (National Security Multi-Mission Vessel)  
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x350?text=NAV+%26+Telecom+Bridge+Integration" alt="Bridge Integration - NAV/Telecom Systems" width="600">
+  <img src="Telecom_NAV_Integration/images/KakaoTalk_20250826_175952383.jpg" alt="Bridge Integration - NAV/Telecom Systems" width="600">
 </p>
 
 ## Roles  
