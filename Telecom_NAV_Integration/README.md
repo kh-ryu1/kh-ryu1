@@ -1,4 +1,4 @@
-# 📡 Integrated NAV/Telecom System Deployment  
+# 🛰️ Integrated NAV/Telecom System Deployment  
 
 ## Project Overview  
 Deployment and integration of **Navigation (NAV)** and **Telecommunication (Telecom)** systems across multiple merchant vessels and research ships.  
