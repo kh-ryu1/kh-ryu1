@@ -30,7 +30,7 @@ Electric Superintendent / Electric Commissioning Engineer
 ## 📷 Site Photos:  
 
 <p align="center">
-  <img src="/Commissioning_Switchboards/images/4e9119d7-b404-4c93-b7d3-1a2831de2643.JPG" alt="My photo" width="600">
+  <img src="/Commissioning_Switchboards/images/KakaoTalk_20250826_180117324.jpg" alt="My photo" width="600">
 </p>
 
 <p align="center">
