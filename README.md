@@ -6,7 +6,7 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 ## 🧩 Professional Summary
 
-* 🔧 Marine Electrical Inspector — final sign-off authority for commissioning and delivery  
+* 🔧 Shipbuilding Electrical Inspector — final sign-off authority for commissioning and delivery  
 * 📐 Licensed [Professional Engineer](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/Professional%20Engineer%20-%20Texas%20Board.pdf) — Registered in Texas, USA
 * 📊 Certified [Project Management Professional (PMP®)](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/PMP%20Certfication_renewed.pdf) — Credentialed by PMI
 * ⚙️ Experienced in HV/LV systems, protection coordination, automation systems, and shipboard communication & navigation systems  
