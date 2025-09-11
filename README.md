@@ -38,7 +38,7 @@ Here is a curated list of engineering projects with technical documentation:
   *System integration of radar, AIS, GPS, and internal communications*
 
 * 🧭 [Arctic Ice-breaking Research Vessel FEED](./Arctic_Observation_Vessel_FEED/README.md)
-  *KOPRI Next Generation Artic Ice-breaking Research Vessel FEED*
+  *KOPRI Next Generation Arctic Ice-breaking Research Vessel FEED*
 
 * ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
   *Philly Shipyard New shipbuilding project*
