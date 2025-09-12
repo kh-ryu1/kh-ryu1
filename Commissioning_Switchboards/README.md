@@ -43,7 +43,7 @@ Electric Superintendent / Electric Commissioning Engineer
 ## 📷 Site Photos:  
 
 <p align="center">
-  <img src="Commissioning_Switchboards/images/IMG_6061.JPG" alt="Switchboard" width="600">
+  <img src="https://github.com/kh-ryu1/kh-ryu1/blob/main/Commissioning_Switchboards/images/IMG_6061.JPG" alt="Switchboard" width="600">
 </p>
 
 <p align="center">
