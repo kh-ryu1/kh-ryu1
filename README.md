@@ -28,8 +28,8 @@ Here is a curated list of engineering projects with technical documentation:
 * ⚡ [Protection Coordination Study](./Protection_Coordination_Study/README.md)
   *Relay setting validation and fault coordination*
 
-* ⚙️ [Commissioning & FAT for Switchboards](./Commissioning_Switchboards/README.md)
-  *Final inspection, FAT, and punchlist handling for MV/LV panels*
+* ⚙️ [Commissioning & FAT for Electric Equipment](./Commissioning_Switchboards/README.md)
+  *Final inspection, FAT, and punchlist handling for MV/LV panels, Generator, Transformer...*
 
 * 🛡️ [Hazardous Area Equipment Validation](./Hazardous_Area_Inspection/README.md)
   *Validation of Ex-certified equipment and zone compliance (IECEx CoPC)*
