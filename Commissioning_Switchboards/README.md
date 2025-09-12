@@ -47,6 +47,10 @@ Electric Superintendent / Electric Commissioning Engineer
 </p>
 
 <p align="center">
+  <img src="https://github.com/kh-ryu1/kh-ryu1/blob/main/Commissioning_Switchboards/images/IMG_7148.HEIC_20250825_092723.606.jpg" alt="Switchboard" width="600">
+</p>
+
+<p align="center">
   <img src="/Commissioning_Switchboards/images/UPS_FAT.jpg" alt="UPS FAT" width="600">
 </p>
 
