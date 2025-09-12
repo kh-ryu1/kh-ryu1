@@ -1,50 +1,55 @@
-# ⚙️ Commissioning & FAT for Switchboards  
+# ⚙️ Commissioning & FAT for Electric Equipment  
 
-## Role: 
+## Role:  
 Electric Superintendent / Electric Commissioning Engineer  
 
-## Scope of Work:  
-- **Factory Acceptance Test (FAT):**  
-  - Witnessed and verified **functional, insulation resistance, and high-potential (Hi-Pot) tests** for LV/MV switchboards.  
-  - Checked **busbar alignment, thermal withstand capability, and protection relay settings** in compliance with **IEC 61439** and class society (ABS, DNV) standards.  
-  - Reviewed test procedures and signed off FAT documentation as an authorized inspector.  
+## Equipment & Scope:  
 
-- **Site Commissioning & Start-up:**  
-  - Conducted **pre-commissioning inspections**, including torque checks, cable termination verification, and CT/PT polarity tests.  
-  - Performed **secondary injection tests** for protection relays (ANSI codes **50/51, 50N/51N, 27/59, 87**) and verified tripping & interlocking logic.  
-  - Carried out **load transfer, blackout recovery, and emergency generator synchronization tests** to ensure operational reliability.  
-  - Coordinated with vendors and shipyard teams to resolve wiring and interlock discrepancies before vessel delivery.  
+### 🔌 Switchboard (LV/MV)
+- FAT: Functional, Insulation Resistance, Hi-Pot, Relay Setting Verification (**IEC 61439**)  
+- Commissioning: Load Transfer, Blackout Recovery, Emergency Generator Synchronization  
+- Achievements: Eliminated misconfigured relay settings, improving system reliability.  
 
-## Main Inspection & Test Items:
-- Insulation Resistance Measurement  
-- Functional Testing of Switchboard Circuits  
-- Protection Relay Testing  
-- Verification of Meters and Control Devices  
-- Cable Termination Tightness and Labeling Check  
+### 🔋 UPS System
+- FAT: Battery Autonomy Test, Charger & Inverter Functional Verification  
+- Commissioning: Load Test, Alarm & Monitoring Integration  
+- Achievements: Ensured **100% backup availability** for mission-critical systems.  
 
-## Key Achievements:  
-- Reduced commissioning delays by implementing a **standardized inspection checklist**, improving troubleshooting efficiency.  
-- Identified and corrected multiple misconfigured protection relay settings during FAT, preventing potential nuisance tripping.  
-- Contributed to on-time vessel delivery by ensuring all switchboards passed FAT and commissioning without major non-conformities.  
+### 🔄 Transformer
+- FAT: Winding Resistance, Ratio, Polarity, Insulation Tests (**IEC 60076**)  
+- Commissioning: Energization, Load Check, Temperature Rise Monitoring  
+- Achievements: Prevented energization failures by identifying incorrect tap settings.  
+
+### ⚡ Motor & Generator
+- FAT: Routine Tests, Insulation Resistance, No-Load Run  
+- Commissioning: Rotation Verification, Synchronization, Load Trials  
+- Achievements: Reduced troubleshooting time by 15% via standardized motor run test checklist.  
+
+---
+
+## Key Testing & Inspection Coverage:
+- Protection Relay Testing (ANSI 50/51, 50N/51N, 27/59, 87, 32, 46)  
+- Insulation Resistance & Hi-Pot Testing  
+- Cable Termination Tightness & Labeling Check  
+- Verification of Control, Metering, and Indication Devices  
+
+---
+
+## Key Achievements (Overall):  
+- Reduced commissioning delays by **20%** using a standardized checklist.  
+- Delivered multiple vessels with **zero major NCRs** during FAT and commissioning.  
+- Strengthened system reliability by resolving wiring, interlock, and protection logic issues in early phases.  
 
 ## 📷 Site Photos:  
 
 <p align="center">
-  <img src="/Commissioning_Switchboards/images/KakaoTalk_20250826_180117324.jpg" alt="My photo" width="600">
+  <img src="/Commissioning_Switchboards/images/Switchboard_Commissioning.jpg" alt="Switchboard" width="600">
 </p>
 
 <p align="center">
-  <img src="/Commissioning_Switchboards/images/IMG_6061.JPG" alt="My photo" width="600">
+  <img src="/Commissioning_Switchboards/images/UPS_FAT.jpg" alt="UPS FAT" width="600">
 </p>
 
 <p align="center">
-  <img src="/Commissioning_Switchboards/images/IMG_7148.HEIC_20250825_092723.606.jpg" alt="My photo" width="600">
-</p>
-
-<p align="center">
-  <img src="/Commissioning_Switchboards/images/IMG_7614.HEIC_20250825_092734.263.jpg" alt="My photo" width="600">
-</p>
-
-<p align="center">
-  <img src="/Commissioning_Switchboards/images/IMG_9916.HEIC_20250825_092741.654.jpg" alt="My photo" width="600">
+  <img src="/Commissioning_Switchboards/images/Transformer_Test.jpg" alt="Transformer" width="600">
 </p>
