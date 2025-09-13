@@ -4,6 +4,10 @@
 These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and emergency power supply.
 
 - Maran gas LNG Carriers (3 ships)
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/20131102_083919.jpg" alt="My photo" width="600">
+</p>
+
 - Korea line LNG Carrier (1 ship)
 - Awilco LNG Carrier (1 ship)
 - Shell Prelude FLNG
