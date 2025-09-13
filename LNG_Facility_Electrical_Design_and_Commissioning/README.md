@@ -32,9 +32,9 @@ These projects involved the detailed electrical design and commissioning of LNG 
 </p>
 
 ## Roles  
-- Instrumentation & Telecom Design Engineer  
 - Electrical Commissioning Engineer  
-- Electrical Supervisor / Superintendent 
+- Electrical Supervisor / Superintendent
+- Instrumentation & Telecom Design Engineer  
 
 ## Scope of Work  
 ### 1. Design Engineering  
