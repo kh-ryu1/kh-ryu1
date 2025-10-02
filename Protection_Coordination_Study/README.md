@@ -18,8 +18,22 @@ Electric Commissioning Engineer, Electric Superintendent
 ## Related Documents  
 - <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
   <p style="font-size:16px; margin-top:10px;">
-    Architecture document for the One Line Diagram of 6.6kV Containership project: 
-    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/One%20Line%20Diagram.pdf" target="_blank"><strong>Drillship Integrated Automation System Topology.pdf</strong></a>
+    Electric architecture document for the One Line Diagram of 6.6kV Containership project: 
+    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/One%20Line%20Diagram.pdf" target="_blank"><strong>HV Containership - One Line Diagram.pdf</strong></a>
+  </p>
+</div>
+
+- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
+  <p style="font-size:16px; margin-top:10px;">
+    Electric analysis document for the Relay Coordination Study of 6.6kV Containership project: 
+    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/TCC%20Curve%20Study.pdf" target="_blank"><strong>TCC Curve Study.pdf</strong></a>
+  </p>
+</div>
+
+- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
+  <p style="font-size:16px; margin-top:10px;">
+    Electric architecture document for the Electric Load Analysis of 6.6kV LNG carrier project: 
+    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/Electric%20Load%20Analysis.pdf" target="_blank"><strong>Electric Load Analysis.pdf</strong></a>
   </p>
 </div>
 
