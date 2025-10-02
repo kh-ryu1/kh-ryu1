@@ -9,6 +9,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
 </p>
 
 - Korea line LNG Carrier (1 ship)
+- Awilco LNG Carrier (1 ship)
 - Excelerate LNG FSRU (1 ship)
 - Shell Prelude FLNG
 - Eni Coral-Sul FLNG
