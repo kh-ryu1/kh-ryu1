@@ -1,7 +1,7 @@
 # 🛢️ LNG Facility E&I System Design and Commissioning
 
 ## Project Overview  
-These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and emergency power supply.
+These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and safe automation system.
 
 - Maran gas LNG Carriers (3 ships)
 <p align="center">
