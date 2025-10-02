@@ -15,6 +15,11 @@ Electric Commissioning Engineer, Electric Superintendent
 - **Standards Compliance**: Ensured all protection settings met **IEC 60255**, **IEC 60947-2**, **ANSI/IEEE C37** standards, and class society (ABS, DNV) requirements for marine and offshore installations.  
 - **Commissioning Support**: Witnessed relay testing (**secondary injection** and trip logic verification) and validated interlocking during commissioning.
 
+## Key Achievements:  
+- Improved **discrimination margin** between feeder and incomer breakers, minimizing nuisance tripping and enhancing system availability.  
+- Identified mis-coordinated earth fault relay settings, preventing potential blackout scenarios in vessel power systems.  
+- Contributed to safe vessel and offshore platform operations by optimizing protection schemes for critical loads (navigation, telecom, and propulsion systems).
+
 ## Related Documents  
 - <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
   <p style="font-size:16px; margin-top:10px;">
@@ -32,12 +37,8 @@ Electric Commissioning Engineer, Electric Superintendent
 
 - <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
   <p style="font-size:16px; margin-top:10px;">
-    Electric architecture document for the Electric Load Analysis of 6.6kV LNG carrier project: 
+    Electric analysis document for the Electric Load Analysis of 6.6kV LNG carrier project: 
     <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/Electric%20Load%20Analysis.pdf" target="_blank"><strong>Electric Load Analysis.pdf</strong></a>
   </p>
 </div>
 
-## Key Achievements:  
-- Improved **discrimination margin** between feeder and incomer breakers, minimizing nuisance tripping and enhancing system availability.  
-- Identified mis-coordinated earth fault relay settings, preventing potential blackout scenarios in vessel power systems.  
-- Contributed to safe vessel and offshore platform operations by optimizing protection schemes for critical loads (navigation, telecom, and propulsion systems).  
