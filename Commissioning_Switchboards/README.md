@@ -55,5 +55,5 @@ Electric Superintendent / Electric Commissioning Engineer
 </p>
 
 <p align="center">
-  <img src="/Commissioning_Switchboards/images/Transformer_Test.jpg" alt="Transformer" width="600">
+  <img src="Commissioning_Switchboards/images/KakaoTalk_20250327_112431740.jpg" alt="Transformer" width="600">
 </p>
