@@ -13,7 +13,15 @@ Electric Commissioning Engineer, Electric Superintendent
   - **87** – Differential Protection (Transformer & Busbar)  
   - **32** – Reverse Power Protection (for generator and propulsion systems)  
 - **Standards Compliance**: Ensured all protection settings met **IEC 60255**, **IEC 60947-2**, **ANSI/IEEE C37** standards, and class society (ABS, DNV) requirements for marine and offshore installations.  
-- **Commissioning Support**: Witnessed relay testing (**secondary injection** and trip logic verification) and validated interlocking during commissioning.  
+- **Commissioning Support**: Witnessed relay testing (**secondary injection** and trip logic verification) and validated interlocking during commissioning.
+
+## Related Documents  
+- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
+  <p style="font-size:16px; margin-top:10px;">
+    Architecture document for the One Line Diagram of 6.6kV Containership project: 
+    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/One%20Line%20Diagram.pdf" target="_blank"><strong>Drillship Integrated Automation System Topology.pdf</strong></a>
+  </p>
+</div>
 
 ## Key Achievements:  
 - Improved **discrimination margin** between feeder and incomer breakers, minimizing nuisance tripping and enhancing system availability.  
