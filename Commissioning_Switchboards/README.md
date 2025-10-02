@@ -6,17 +6,17 @@ Electric Superintendent / Electric Commissioning Engineer
 ## Equipment & Scope:  
 
 ### 🔌 Switchboard (LV/MV)
-- FAT: Functional, Insulation Resistance, Hi-Pot, Relay Setting Verification (**IEC 61439**)  
+- FAT: Functional, Insulation Resistance, Hi-Pot, Relay Setting Verification 
 - Commissioning: Load Transfer, Blackout Recovery, Emergency Generator Synchronization  
 - Achievements: Eliminated misconfigured relay settings, improving system reliability.  
 
 ### 🔋 UPS System
 - FAT: Battery Autonomy Test, Charger & Inverter Functional Verification  
 - Commissioning: Load Test, Alarm & Monitoring Integration  
-- Achievements: Ensured **100% backup availability** for mission-critical systems.  
+- Achievements: Ensured 100% backup availability for mission-critical systems.  
 
 ### 🔄 Transformer
-- FAT: Winding Resistance, Ratio, Polarity, Insulation Tests (**IEC 60076**)  
+- FAT: Winding Resistance, Ratio, Polarity, Insulation Tests 
 - Commissioning: Energization, Load Check, Temperature Rise Monitoring  
 - Achievements: Prevented energization failures by identifying incorrect tap settings.  
 
