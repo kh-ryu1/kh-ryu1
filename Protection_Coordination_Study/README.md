@@ -21,12 +21,9 @@ Electric Commissioning Engineer, Electric Superintendent
 - Contributed to safe vessel and offshore platform operations by optimizing protection schemes for critical loads (navigation, telecom, and propulsion systems).
 
 ## 📁 Reference Documents
+## 📁 Reference Documents
+
 - 📄 [**HV Containership – One Line Diagram**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/One%20Line%20Diagram.pdf)  
-  > Electric architecture document for the One Line Diagram of **6.6kV Containership project**
-
 - 📄 [**HV Containership – Relay Coordination (TCC Curve Study)**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/TCC%20Curve%20Study.pdf)  
-  > Electric analysis document for the Relay Coordination Study of **6.6kV Containership project**
-
-- 📄 [**LNG Carrier – Electric Load Analysis**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/Electric%20Load%20Analysis.pdf)  
-  > Electric analysis document for the Electric Load Analysis of **6.6kV LNG carrier project**
+- 📄 [**LNG Carrier – Electric Load Analysis**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/Electric%20Load%20Analysis.pdf)
 
