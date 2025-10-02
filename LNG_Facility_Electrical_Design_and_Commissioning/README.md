@@ -9,7 +9,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
 </p>
 
 - Korea line LNG Carrier (1 ship)
-- Excelerate LNG FSRU (Floating Storage, Regasification Unit) (1 ship)
+- Excelerate LNG FSRU (1 ship)
 - Shell Prelude FLNG
 - Eni Coral-Sul FLNG
 <p align="center">
