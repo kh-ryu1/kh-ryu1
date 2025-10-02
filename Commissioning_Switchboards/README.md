@@ -37,8 +37,6 @@
 - Delivered multiple vessels with **zero major NCRs** during FAT and commissioning  
 - Strengthened long-term system reliability by resolving wiring, interlock, and protection logic issues in early project phases  
 
----
-
 ## 📷 Site Photos:  
 
 <p align="center">
