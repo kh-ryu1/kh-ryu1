@@ -54,15 +54,6 @@ Here is a curated list of engineering projects with technical documentation:
   
 ---
 
-## 📁 Repositories
-
-Here are some of my technical contributions:
-
-- [`/Substation_Protection_Study`](https://github.com/<your-username>/Substation_Protection_Study): Relay settings, SLDs, and coordination reports  
-- [`/Python_Engineering_Tools`](https://github.com/<your-username>/Python_Engineering_Tools): Scripts for automating engineering documentation and analysis  
-- [`/Cybersecurity_WindFarm`](https://github.com/<your-username>/Cybersecurity_WindFarm): IEC 62443 & NIST 800-82 summaries and SCADA network architecture diagrams  
-
----
 
 ## 📢 Contact
 
