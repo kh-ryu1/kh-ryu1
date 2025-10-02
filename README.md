@@ -6,7 +6,7 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 ## 🧩 Professional Summary
 
-* 🔧 Shipbuilding Electrical Inspector — final sign-off authority for commissioning and delivery  
+* 🔧 Shipbuilding Electrical & Instrumentation (E&I) Inspector — final sign-off authority for commissioning and delivery  
 * 📐 Licensed [Professional Engineer](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/Professional%20Engineer%20-%20Texas%20Board.pdf) — Registered in Texas, USA
 * 📊 Certified [Project Management Professional (PMP®)](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/PMP%20Certfication_renewed.pdf) — Credentialed by PMI
 * ⚙️ Experienced in HV/LV systems, protection coordination, automation systems, and shipboard communication & navigation systems  
@@ -19,7 +19,7 @@ Welcome to my engineering portfolio. I am a licensed Professional Engineer with 
 
 Here is a curated list of engineering projects with technical documentation:
 
-* 🛢️ [LNG Facility Electrical Design and Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
+* 🛢️ [LNG Facility E&I Design and Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
   *Electric, Instrument & Telecom design, and commissioning of LNG facility projects*
 
 * 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
@@ -35,7 +35,7 @@ Here is a curated list of engineering projects with technical documentation:
   *Validation of Ex-certified equipment and zone compliance (IECEx CoPC)*
 
 * 🛰️ [Integrated NAV/Telecom System Deployment](./Telecom_NAV_Integration/README.md)
-  *System integration of radar, AIS, GPS, and internal communications*
+  *System integration of Radar, ECDIS, VDR, AIS, GPS, CCTV, Ship's Network and internal communications*
 
 * 🧭 [Arctic Ice-breaking Research Vessel FEED](./Arctic_Observation_Vessel_FEED/README.md)
   *KOPRI Next Generation Arctic Ice-breaking Research Vessel FEED*
