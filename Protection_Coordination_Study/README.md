@@ -20,25 +20,13 @@ Electric Commissioning Engineer, Electric Superintendent
 - Identified mis-coordinated earth fault relay settings, preventing potential blackout scenarios in vessel power systems.  
 - Contributed to safe vessel and offshore platform operations by optimizing protection schemes for critical loads (navigation, telecom, and propulsion systems).
 
-## Related Documents  
-- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
-  <p style="font-size:16px; margin-top:10px;">
-    Electric architecture document for the One Line Diagram of 6.6kV Containership project: 
-    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/One%20Line%20Diagram.pdf" target="_blank"><strong>HV Containership - One Line Diagram.pdf</strong></a>
-  </p>
-</div>
+## 📁 Reference Documents
+- 📄 [**HV Containership – One Line Diagram**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/One%20Line%20Diagram.pdf)  
+  > Electric architecture document for the One Line Diagram of **6.6kV Containership project**
 
-- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
-  <p style="font-size:16px; margin-top:10px;">
-    Electric analysis document for the Relay Coordination Study of 6.6kV Containership project: 
-    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/TCC%20Curve%20Study.pdf" target="_blank"><strong>TCC Curve Study.pdf</strong></a>
-  </p>
-</div>
+- 📄 [**HV Containership – Relay Coordination (TCC Curve Study)**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/TCC%20Curve%20Study.pdf)  
+  > Electric analysis document for the Relay Coordination Study of **6.6kV Containership project**
 
-- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
-  <p style="font-size:16px; margin-top:10px;">
-    Electric analysis document for the Electric Load Analysis of 6.6kV LNG carrier project: 
-    <a href="https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/Electric%20Load%20Analysis.pdf" target="_blank"><strong>Electric Load Analysis.pdf</strong></a>
-  </p>
-</div>
+- 📄 [**LNG Carrier – Electric Load Analysis**](https://github.com/kh-ryu1/kh-ryu1/blob/main/Protection_Coordination_Study/Electric%20Load%20Analysis.pdf)  
+  > Electric analysis document for the Electric Load Analysis of **6.6kV LNG carrier project**
 
