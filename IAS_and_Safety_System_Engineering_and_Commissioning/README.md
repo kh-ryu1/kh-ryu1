@@ -3,6 +3,8 @@
 ## Project Overview  
 Engineering and commissioning of Integrated Automation Systems (IAS) and critical safety systems including Fire & Gas (F&G), Emergency Shutdown (ESD), and Cause & Effect (C&E) test.
 
+- Maran Gas LNG Carrier
+- Excelerate LNG FSRU (Floating Storage, Regasification Unit)
 - Transocean / Chevron Drillship
 - Vantage Drillship
 - Allseas PLSV (Pipe Laying Support Vessel)
