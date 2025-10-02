@@ -59,8 +59,4 @@ These projects involved the detailed electrical design and commissioning of LNG 
 - Improved overall installation quality by enforcing strict inspection protocols, preventing major rework during commissioning.  
 - Delivered the project on schedule by proactive resolution of site quality issues.
 
-## Related Documents  
-- [Instrumentation & Telecom Diagrams](./Instrumentation_Telecom_Diagrams.pdf)  
-- [Electrical Commissioning Reports](./Electrical_Commissioning_Report.pdf)  
-- [LNG Carrier Equipment Logic Validation](./LNG_Equipment_Logic_Validation.pdf)  
-- [Quality Inspection & Punchlist Reports](./Quality_Inspection_Reports.pdf)
+
