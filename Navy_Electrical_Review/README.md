@@ -1,14 +1,14 @@
 # ⚓ US Navy Vessel Electrical Review  
 
 ## Role: 
-Navigation & Telecom System Design Engineer  
+Instrument & Telecom System Design Engineer  
 
 ## Scope of Work:  
-- **System Design Engineering**: Designed and reviewed **navigation and telecommunication systems**, including radar, AIS, GMDSS, VHF/UHF communication, and integrated bridge systems in compliance with US Navy requirements.  
-- **Interface & Integration**: Developed interface diagrams and ensured proper integration between navigation systems, power distribution, and shipboard IT networks.  
+- **System Design Engineering**: Designed and reviewed **instrumentation and telecommunication systems**, including IAS, Radar, AIS, GMDSS, VHF/UHF communication, and integrated bridge systems in compliance with US Navy requirements.  
+- **Interface & Integration**: Developed interface diagrams and ensured proper integration between automation systems, power distribution, and shipboard IT networks.  
 - **Drawing & 3D Model Review**: Updated and validated system block diagrams, cable routing layouts, and equipment installation drawings to meet **ABS** and **US Navy MIL-STD** standards.  
 - **Installation & Commissioning Support**: Provided engineering support during installation and commissioning, resolving design discrepancies and verifying operational performance.  
-- **Documentation & Approval**: Prepared technical documentation and provided final engineering approval for navigation/telecom system design changes.  
+- **Documentation & Approval**: Prepared technical documentation and provided final engineering approval for automation/telecom system design changes.  
 
 ## Key Achievements:  
 - Optimized cable routing for navigation sensors, reducing **EMI** (Electromagnetic Interference) risk and improving system reliability.  
@@ -22,7 +22,7 @@ Navigation & Telecom System Design Engineer
     <img src="https://www.phillyshipyard.com/wp-content/uploads/2024/09/NSMV-II-Patriot-State-Delivery-2048x1662.png" width="600" style="border-radius:10px;">
   </a>
   
-🔗 Click image to read the full article
+_🔗 Click image to read the full article_
 
 
 *Patriot State is the second National Security Multi-Mission Vessel (NSMV) for the U.S. Maritime Academy, recently delivered by Philly Shipyard. This state-of-the-art training ship features advanced educational and disaster-response capabilities, accommodating up to 600 cadets and including hospital facilities and a helicopter landing deck.*
