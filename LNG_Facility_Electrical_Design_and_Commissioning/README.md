@@ -1,4 +1,4 @@
-# 🛢️ LNG Facility Electrical Design & Commissioning
+# 🛢️ LNG Facility Electrical & Instrumentation Design/ Commissioning
 
 ## Project Overview  
 These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and emergency power supply.
@@ -32,14 +32,15 @@ These projects involved the detailed electrical design and commissioning of LNG 
 </p>
 
 ## Roles  
-- Electrical Commissioning Engineer  
+- Electrical & Instrumentation Commissioning Engineer  
 - Electrical Supervisor / Superintendent
 - Instrumentation & Telecom Design Engineer  
 
 ## Scope of Work  
 ### 1. Design Engineering  
 - Designed instrumentation and telecom systems for LNG processing facilities and LNG carriers, ensuring integration with power distribution and control networks.  
-- Reviewed vendor drawings and ensured compliance with IEC 61850, and class society requirements.  
+- Reviewed vendor drawings and ensured compliance with IEC 61363-1, and class society requirements.
+- Updated and managed Hook-up drawing, I/O List, Wiring diagram, Connection diagram.
 
 ### 2. Commissioning  
 - Conducted loop checks, insulation resistance tests, and functional testing of LV/MV switchboards, transformers, and emergency power systems.  
