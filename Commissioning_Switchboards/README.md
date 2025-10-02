@@ -51,9 +51,9 @@ Electric Superintendent / Electric Commissioning Engineer
 </p>
 
 <p align="center">
-  <img src="/Commissioning_Switchboards/images/UPS_FAT.jpg" alt="UPS FAT" width="600">
+  <img src="https://github.com/kh-ryu1/kh-ryu1/blob/main/Commissioning_Switchboards/images/KakaoTalk_20250913_133630399.jpg" alt="UPS FAT" width="600">
 </p>
 
 <p align="center">
-  <img src="Commissioning_Switchboards/images/KakaoTalk_20250327_112431740.jpg" alt="Transformer" width="600">
+  <img src="https://github.com/kh-ryu1/kh-ryu1/blob/main/Commissioning_Switchboards/images/KakaoTalk_20231214_120117965_20.jpg" alt="Generator" width="600">
 </p>
