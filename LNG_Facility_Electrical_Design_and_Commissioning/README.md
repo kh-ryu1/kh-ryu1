@@ -1,4 +1,4 @@
-# 🛢️ LNG Facility Electrical & Instrumentation Design/ Commissioning
+# 🛢️ LNG Facility E&I System Design and Commissioning
 
 ## Project Overview  
 These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and emergency power supply.
