@@ -47,7 +47,7 @@ Here is a curated list of engineering projects with technical documentation:
   *Design of HVAC/HVDC topology, IEC 61850, and SCADA architecture*
 
 * 🔐 [Marine Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
-  *Security framework review and architecture planning based on NIST 800-82 & IEC 62443*
+  *Security framework review and architecture planning based on IEC 62443*
 
 * 🎯 [Detail Work Experiences](./Detail_Experiences/README.md)
   
