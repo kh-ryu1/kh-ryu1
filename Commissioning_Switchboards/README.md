@@ -24,7 +24,6 @@
 - **Commissioning:** Rotation verification, synchronization, and full-load performance trials  
 - **Achievements:** Reduced troubleshooting time by 15% through a standardized motor run test protocol  
 
----
 
 ## 🔑 Key Testing & Inspection Coverage  
 - Protection relay testing (ANSI functions: 50/51, 50N/51N, 27/59, 87, 32, 46)  
@@ -32,7 +31,6 @@
 - Cable termination torqueing and labeling verification  
 - Functional validation of control, metering, and indication devices  
 
----
 
 ## 📌 Key Achievements (Overall)  
 - Reduced commissioning delays by **20%** through standardized test procedures  
