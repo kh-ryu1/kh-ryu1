@@ -1,44 +1,45 @@
-# ⚙️ Commissioning & FAT for Electric Equipment  
+# ⚙️ Commissioning & FAT for Electrical Equipment  
 
-## Role:  
-Electric Superintendent / Electric Commissioning Engineer  
+**Role:** Electric Superintendent / Commissioning Engineer  
 
-## Equipment & Scope:  
+## Equipment & Scope  
 
-### 🔌 Switchboard (LV/MV)
-- FAT: Functional, Insulation Resistance, Hi-Pot, Relay Setting Verification 
-- Commissioning: Load Transfer, Blackout Recovery, Emergency Generator Synchronization  
-- Achievements: Eliminated misconfigured relay settings, improving system reliability.  
+### 🔌 Switchboards (LV/MV)  
+- **FAT:** Functional verification, insulation resistance testing, Hi-Pot testing, and relay setting validation  
+- **Commissioning:** Load transfer verification, blackout recovery testing, and emergency generator synchronization  
+- **Achievements:** Improved reliability by detecting and correcting misconfigured relay settings  
 
-### 🔋 UPS System
-- FAT: Battery Autonomy Test, Charger & Inverter Functional Verification  
-- Commissioning: Load Test, Alarm & Monitoring Integration  
-- Achievements: Ensured 100% backup availability for mission-critical systems.  
+### 🔋 UPS Systems  
+- **FAT:** Battery autonomy testing, charger performance checks, and inverter functional verification  
+- **Commissioning:** Load testing and integration with alarm and monitoring systems  
+- **Achievements:** Ensured 100% backup availability for mission-critical operations  
 
-### 🔄 Transformer
-- FAT: Winding Resistance, Ratio, Polarity, Insulation Tests 
-- Commissioning: Energization, Load Check, Temperature Rise Monitoring  
-- Achievements: Prevented energization failures by identifying incorrect tap settings.  
+### 🔄 Transformers  
+- **FAT:** Winding resistance, ratio, polarity, and insulation testing  
+- **Commissioning:** Energization, load monitoring, and temperature rise assessment  
+- **Achievements:** Prevented energization failures by identifying incorrect tap changer settings  
 
-### ⚡ Motor & Generator
-- FAT: Routine Tests, Insulation Resistance, No-Load Run  
-- Commissioning: Rotation Verification, Synchronization, Load Trials  
-- Achievements: Reduced troubleshooting time by 15% via standardized motor run test checklist.  
-
----
-
-## Key Testing & Inspection Coverage:
-- Protection Relay Testing (ANSI 50/51, 50N/51N, 27/59, 87, 32, 46)  
-- Insulation Resistance & Hi-Pot Testing  
-- Cable Termination Tightness & Labeling Check  
-- Verification of Control, Metering, and Indication Devices  
+### ⚡ Motors & Generators  
+- **FAT:** Routine electrical tests, insulation resistance measurement, and no-load run checks  
+- **Commissioning:** Rotation verification, synchronization, and full-load performance trials  
+- **Achievements:** Reduced troubleshooting time by 15% through a standardized motor run test protocol  
 
 ---
 
-## Key Achievements (Overall):  
-- Reduced commissioning delays by **20%** using a standardized checklist.  
-- Delivered multiple vessels with **zero major NCRs** during FAT and commissioning.  
-- Strengthened system reliability by resolving wiring, interlock, and protection logic issues in early phases.  
+## 🔑 Key Testing & Inspection Coverage  
+- Protection relay testing (ANSI functions: 50/51, 50N/51N, 27/59, 87, 32, 46)  
+- Insulation resistance and Hi-Pot testing  
+- Cable termination torqueing and labeling verification  
+- Functional validation of control, metering, and indication devices  
+
+---
+
+## 📌 Key Achievements (Overall)  
+- Reduced commissioning delays by **20%** through standardized test procedures  
+- Delivered multiple vessels with **zero major NCRs** during FAT and commissioning  
+- Strengthened long-term system reliability by resolving wiring, interlock, and protection logic issues in early project phases  
+
+---
 
 ## 📷 Site Photos:  
 
