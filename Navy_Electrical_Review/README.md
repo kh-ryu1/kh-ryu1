@@ -22,6 +22,6 @@ Navigation & Telecom System Design Engineer
     <img src="https://www.phillyshipyard.com/wp-content/uploads/2024/09/NSMV-II-Patriot-State-Delivery-2048x1662.png" width="600" style="border-radius:10px;">
   </a>
   <p style="font-size:16px; margin-top:10px;">
-    <strong>Patriot State</strong> is the second National Security Multi-Mission Vessel (NSMV) for the U.S. Maritime Academy, recently delivered by Philly Shipyard. This state-of-the-art training ship features advanced educational and disaster-response capabilities, accommodating up to 600 cadets and including hospital facilities and a helicopter landing deck.
+*Patriot State is the second National Security Multi-Mission Vessel (NSMV) for the U.S. Maritime Academy, recently delivered by Philly Shipyard. This state-of-the-art training ship features advanced educational and disaster-response capabilities, accommodating up to 600 cadets and including hospital facilities and a helicopter landing deck.*
   </p>
 </div>
