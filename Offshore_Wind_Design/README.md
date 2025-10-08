@@ -21,22 +21,6 @@ Comparative analysis of HVAC, LCC-HVDC, and VSC-HVDC systems for long-distance e
 - Loss and cost comparison across transmission types  
 - Recommendation of VSC-HVDC for offshore Korea based on technical and environmental factors
 
-### 3. Field Experience with High-Voltage Transformer Systems  
-Extensive field experience with high-voltage power transformers, especially for marine and offshore environments, covering the entire equipment lifecycle:
-
-- **Factory Acceptance Testing (FAT)** at manufacturing facilities  
-- **Site Acceptance Testing (SAT)** and commissioning on vessels and offshore platforms  
-- **Operation and troubleshooting** involving fault diagnosis, coordination with suppliers, and on-site resolution  
-- Support for safe energization and integration into offshore substations
-
-### 4. System Integration and Protection Coordination  
-Practical involvement in SCADA and protection relay systems used in offshore wind and marine electrical infrastructure.
-
-- IEC 61850-based SCADA communication design and validation  
-- Configuration and testing of protection relays (OCR, DGR, Distance, Differential)  
-- HMI logic verification, alarm/event matrix review, and control logic tuning  
-- Exposure to cybersecurity best practices, including IEC 62443 compliance principles  
-- Experience supports robust automation, fault response, and remote monitoring capabilities
 
 ## 📘 Ongoing Research
 
