@@ -43,7 +43,7 @@ Here is a curated list of engineering projects with technical documentation:
 * ⚓ [US Navy Vessel Electrical Review](./Navy_Electrical_Review/README.md)
   *Philly Shipyard New shipbuilding project*
 
-* 🌀 [Offshore Wind Substation Design](./Offshore_Wind_Design/README.md)
+* 🌀 [Offshore Wind Farm Research](./Offshore_Wind_Design/README.md)
   *Design of HVAC/HVDC topology, IEC 61850, and SCADA architecture*
 
 * 🔐 [Marine Cybersecurity Framework (IEC 62443)](./Cybersecurity_SCADA/README.md)
