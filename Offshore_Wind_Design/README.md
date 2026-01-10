@@ -1,10 +1,10 @@
-# 🌀 Offshore Wind Substation Design
+# 🌀 Offshore Wind Farm Research
 
-This project compiles technical research and modeling activities related to offshore wind farm design, particularly focusing on feasibility studies and grid integration for the southern coast of Korea.
+These activities compile technical research and modeling activities related to offshore wind farm design, particularly focusing on feasibility studies and grid integration for the southern coast of Korea.
 
-## 🔍 Project Overview
+## 🔍 Research Overview
 
-The work encompasses below key parts:
+The research encompasses below key parts:
 
 ### 1. Feasibility Study on Offshore Wind Farm in Geoje  
 A virtual offshore wind power plant was modeled near the Geoje coast based on climate data and policy analysis. Tools like RETScreen were used to simulate expected energy yields and assess financial viability.
