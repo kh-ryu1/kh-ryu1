@@ -4,7 +4,7 @@ This project compiles technical research and modeling activities related to offs
 
 ## 🔍 Project Overview
 
-The work encompasses four key parts:
+The work encompasses below key parts:
 
 ### 1. Feasibility Study on Offshore Wind Farm in Geoje  
 A virtual offshore wind power plant was modeled near the Geoje coast based on climate data and policy analysis. Tools like RETScreen were used to simulate expected energy yields and assess financial viability.
