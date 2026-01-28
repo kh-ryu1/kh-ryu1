@@ -1,6 +1,7 @@
 # 👋 Hi, I'm KH Ryu — Electrical Engineer (PE, PMP®)
 
 Welcome to my engineering portfolio. I am a licensed Professional Engineer (P.E.) with 15+ years of multidisciplinary experience across shipbuilding, offshore oil & gas, and heavy industries. I focus on power system design, integrated automation and control systems, inspection and commissioning, and OT cybersecurity for marine and industrial environments. 
+
 I am currently based in Korea and authorized to work in both Korea and Canada (Canada: Open Work Permit). 🌏 Korea / Canada 🍁
 
 ---
