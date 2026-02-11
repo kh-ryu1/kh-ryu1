@@ -1,7 +1,6 @@
 ### Process & Commissioning Improvements (MH-based)
 
 **Focus:** shipboard power systems, commissioning readiness, safer production workflows  
-**MH conversion basis:** 70,000 KRW per MH (fully loaded labor rate)
 
 **Highlights (Measured Impact)**
 - Shore power receiving workflow redesign for HV vessels → **~714 MH saved per vessel**
@@ -27,7 +26,7 @@ Shore power cables were previously connected directly to the switchboard, increa
 **Outcome**
 - Improved operational safety by reducing exposure at the switchboard connection point.
 - Strengthened equipment integrity through a more controlled connection interface.
-- **Man-hour impact:** **~714 MH saved per vessel** (based on 70,000 KRW/MH)
+- **Man-hour impact:** **~720 MH saved per vessel** 
 
 ---
 
@@ -43,7 +42,7 @@ A project included a battery charger system with **temperature-dependent automat
 **Outcome**
 - Improved inspection consistency and reduced rework caused by ambiguous test interpretations.
 - Increased test coverage for advanced control features vs. legacy “basic charger” test methods.
-- **Man-hour impact:** **~29 MH saved per vessel** (based on 70,000 KRW/MH)
+- **Man-hour impact:** **~30 MH saved per vessel** 
 
 ---
 
@@ -60,7 +59,7 @@ The ship network was used only for basic functions and performance was limited, 
 **Outcome**
 - Improved efficiency of quay-side vessel management through better connectivity and adoption.
 - Elevated internal capability via training and clearer use cases.
-- **Man-hour impact:** **~429 MH saved per vessel** (based on 70,000 KRW/MH)
+- **Man-hour impact:** **~430 MH saved per vessel**
 
 ---
 
@@ -76,7 +75,7 @@ Navigation/communication systems vary substantially by vessel type (commercial v
 **Outcome**
 - Reduced commissioning and inspection hours by improving sea trial readiness.
 - Improved verification quality and consistency across different project configurations.
-- **Man-hour impact:** **~286 MH saved per vessel** (based on 70,000 KRW/MH)
+- **Man-hour impact:** **~290 MH saved per vessel** 
 
 ---
 
