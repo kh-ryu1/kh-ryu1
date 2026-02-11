@@ -64,17 +64,19 @@ The ship network was used only for basic functions and performance was limited, 
 
 ---
 
-#### 4) Pre-Review of Commissioning Procedures for Navigation & Communication Systems
+#### 4) Pre-Review and Optimization of Commissioning Procedures for Navigation & Communication Systems
 **Context**  
 Navigation/communication systems vary substantially by vessel type (commercial vs. offshore), requiring detailed verification and a structured commissioning sequence.
 
 **My contribution**
-- Reviewed commissioning procedures in advance to identify gaps, optimize readiness, and standardize checkpoints.
-- Aligned key tests and sequencing to reduce confusion during execution and inspection.
-- Supported sea trial readiness by improving clarity of steps, responsibilities, and expected results.
+- Conducted an early, detailed review by cross-checking **vendor drawings / documentation** against **yard commissioning procedures** to identify misalignments.
+- Eliminated **duplicate and non-value-added inspection items** by consolidating overlapping steps and removing unnecessary checks without compromising verification integrity.
+- Coordinated with the **owner/client** to agree on an optimized, practical procedure and finalize it before execution.
+- Aligned the final procedure with the sea-trial plan to improve readiness and reduce on-site confusion.
 
 **Outcome**
-- Reduced commissioning and inspection hours by improving sea trial readiness.
+- Shortened the sea-trial/commissioning schedule by executing a cleaner, optimized procedure with fewer redundant steps.
+- Reduced commissioning and inspection hours through improved readiness and clearer acceptance checkpoints.
 - Improved verification quality and consistency across different project configurations.
 - **Man-hour impact:** **~290 MH saved per vessel** 
 
