@@ -8,8 +8,6 @@ Practical process improvements delivered in shipbuilding / offshore project envi
 
 ## At a Glance
 
-**MH conversion basis:** 70,000 KRW per MH (fully loaded labor rate)
-
 ### Measured impact (per vessel)
 | Initiative | Impact |
 |---|---:|
