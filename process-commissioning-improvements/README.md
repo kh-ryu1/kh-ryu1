@@ -47,15 +47,17 @@ A project included a battery charger system with **temperature-dependent automat
 
 #### 3) Increasing Yard & Quay Utilization of Ship Network Systems (Training + Infrastructure)
 **Problem**  
-The ship network was used only for basic functions and performance was limited, reducing value for production and vessel management.
+The ship network was used only for basic functions and performance was limited, reducing value for production and vessel management. In addition, many signals and integrations relied on **hardwired I/O**, which increased cable routing and installation workload.
 
 **My contribution**
 - Evaluated practical expansion use cases for ship network systems in production/operations.
+- Led the transition effort from **hardwired I/O connections to network-cable-based connectivity** where applicable, reducing overall cable pulling and routing volume.
 - Organized and hosted **in-house training** by inviting network specialists to educate internal teams.
 - Led quay-side network expansion initiatives to improve connectivity for alongside vessels.
 - Promoted real workflow adoption so the network supported daily vessel management tasks.
 
 **Outcome**
+- Reduced cable installation effort by lowering the amount of I/O cabling required through network-based integration.
 - Improved efficiency of quay-side vessel management through better connectivity and adoption.
 - Elevated internal capability via training and clearer use cases.
 - **Man-hour impact:** **~430 MH saved per vessel**
