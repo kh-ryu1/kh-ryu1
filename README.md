@@ -53,8 +53,8 @@ Here is a curated list of engineering projects with technical documentation:
 
 * 🎯 [Detail Work Experiences](./Detail_Experiences/README.md)
   
-* ⚙️ [Process & Commissioning Improvements](#process--commissioning-improvements-mh-based)
-  *Quantified safety & efficiency initiatives (per vessel)
+* ⚙️ [Process & Commissioning Improvements (MH-based)](#process--commissioning-improvements-mh-based)
+
 
 ---
 
