@@ -10,7 +10,6 @@
 - PMS verification process improvement → **reduced late-stage troubleshooting and improved test repeatability**
 - Generator parallel running & PF optimization study → **improved operational stability and reduced tuning trial-and-error**
 
-> Potential combined impact (if items 1–4 apply to the same vessel): **~1,457 MH saved per vessel**
 
 ---
 
