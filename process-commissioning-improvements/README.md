@@ -8,7 +8,7 @@
 - Ship network utilization expansion (training + quay infrastructure) → **~430 MH saved per vessel**
 - Navigation/communication commissioning procedure pre-review → **~290 MH saved per vessel**
 - PMS verification process improvement → **reduced late-stage troubleshooting and improved test repeatability**
-- Generator parallel running & PF optimization (Droop → CCC) → **improved kVAr sharing stability and reduced tuning trial-and-error**
+- Generator parallel running & PF optimization (Droop → CCC) → **improved kVAR sharing stability and reduced tuning trial-and-error**
 
 
 ---
@@ -104,7 +104,7 @@ When generators operate in parallel, poor reactive power sharing can lead to uns
 
 **My contribution**
 - Reviewed and applied generator reactive load-sharing fundamentals to improve stability in parallel operation:
-  - kW (real power) sharing vs. kVAr (reactive power) sharing  
+  - kW (real power) sharing vs. kVAR (reactive power) sharing  
   - AVR behaviors and their impact on bus voltage and PF  
 - Led a gradual transition of the reactive load-sharing approach from **conventional droop** to **Cross Current Compensation (CCC)**.
 - Updated commissioning guidance and troubleshooting logic so teams could validate:
