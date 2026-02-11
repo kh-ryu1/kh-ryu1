@@ -98,21 +98,26 @@ PMS verification was often time-consuming and inconsistent due to variations in 
 
 ---
 
-#### 6) Generator Parallel Running & Power Factor (PF) Optimization Study
+#### 6) Generator Parallel Running & Power Factor (PF) Optimization (Droop → Cross Current Compensation)
 **Problem / Objective**  
-When generators operate in parallel, inefficient reactive power management can lead to poor power factor, higher losses, unstable sharing of reactive load, and avoidable operational constraints.
+When generators operate in parallel, poor reactive power sharing can lead to unstable bus voltage, circulating reactive currents, suboptimal PF, and repeated tuning during commissioning.
 
 **My contribution**
-- Consolidated and shared practical guidance on generator parallel running fundamentals:
+- Reviewed and applied generator reactive load-sharing fundamentals to improve stability in parallel operation:
   - kW (real power) sharing vs. kVAr (reactive power) sharing  
-  - droop mode vs. isochronous concepts (as applicable)  
-  - AVR/reactive droop settings and their impact on kVAr sharing stability  
-- Explored operational and configuration approaches to improve PF efficiently, such as:
-  - optimizing AVR settings / reactive droop parameters for stable kVAr sharing  
-  - aligning operational setpoints and monitoring (PF, kVAr, bus voltage, generator loading)  
-  - evaluating the practicality of PF correction methods (e.g., capacitor banks / harmonic considerations) at a concept level  
-- Translated theory into actionable yard/commissioning guidance so teams could apply it during setup and trials.
+  - AVR behaviors and their impact on bus voltage and PF  
+- Led a gradual transition of the reactive load-sharing approach from **conventional droop** to **Cross Current Compensation (CCC)**.
+- Updated commissioning guidance and troubleshooting logic so teams could validate:
+  - stable kVAr sharing between generators  
+  - reduced reactive circulating current  
+  - improved voltage regulation under changing load conditions  
+
+**Why CCC can be better than droop (in practice)**
+- **More accurate kVAr sharing:** CCC helps generators share reactive power more evenly, which can reduce kVAr imbalance that sometimes remains under droop-based sharing.
+- **Reduced circulating reactive current:** By compensating cross-current effects, CCC can minimize unnecessary reactive circulation between machines, supporting more stable operation.
+- **Better voltage stability during parallel running:** CCC can maintain steadier bus voltage under varying reactive demand, reducing iterative tuning and “hunting” during trials.
 
 **Outcome**
-- Improved internal understanding and consistency in how teams approach parallel operation and PF improvement.
-- Supported more stable operation and reduced trial-and-error during commissioning (less tuning churn, clearer diagnostics).
+- Improved operational stability during generator parallel running and reduced trial-and-error tuning during commissioning.
+- Provided clearer, more repeatable guidance for PF-related tuning and diagnostics (less ambiguity, faster root-cause isolation).
+
