@@ -1,12 +1,12 @@
-### Process & Commissioning Improvements (MH-based)
+### Process & Commissioning Improvements 
 
 **Focus:** shipboard power systems, commissioning readiness, safer production workflows  
 
 **Highlights (Measured Impact)**
-- Shore power receiving workflow redesign for HV vessels → **~714 MH saved per vessel**
-- Battery charger function test standardization (advanced auto charge/discharge) → **~29 MH saved per vessel**
-- Ship network utilization expansion (training + quay infrastructure) → **~429 MH saved per vessel**
-- Navigation/communication commissioning procedure pre-review → **~286 MH saved per vessel**
+- Shore power receiving workflow redesign for HV vessels → **~720 MH saved per vessel**
+- Battery charger function test standardization (advanced auto charge/discharge) → **~30 MH saved per vessel**
+- Ship network utilization expansion (training + quay infrastructure) → **~430 MH saved per vessel**
+- Navigation/communication commissioning procedure pre-review → **~290 MH saved per vessel**
 - PMS verification process improvement → **reduced late-stage troubleshooting and improved test repeatability**
 - Generator parallel running & PF optimization study → **improved operational stability and reduced tuning trial-and-error**
 
