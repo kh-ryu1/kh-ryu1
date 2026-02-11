@@ -1,127 +1,149 @@
-### Process & Commissioning Improvements 
+# Process & Commissioning Improvements (MH-based)
 
-**Focus:** shipboard power systems, commissioning readiness, safer production workflows  
+Practical process improvements delivered in shipbuilding / offshore project environments—focused on **safety**, **commissioning readiness**, and **production efficiency**.
 
-**Highlights (Measured Impact)**
-- Shore power receiving workflow redesign for HV vessels → **~720 MH saved per vessel**
-- Battery charger function test standardization (advanced auto charge/discharge) → **~30 MH saved per vessel**
-- Ship network utilization expansion (training + quay infrastructure) → **~430 MH saved per vessel**
-- Navigation/communication commissioning procedure pre-review → **~290 MH saved per vessel**
-- PMS verification process improvement → **reduced late-stage troubleshooting and improved test repeatability**
-- Generator parallel running & PF optimization (Droop → CCC) → **improved kVAR sharing stability and reduced tuning trial-and-error**
-
+> ⚠️ Note: Project and client details are anonymized. This page is written at a public-safe level.
 
 ---
 
-#### 1) Safer Shore Power Receiving for High-Voltage Vessels (AMP Reel Integration)
+## At a Glance
+
+**MH conversion basis:** 70,000 KRW per MH (fully loaded labor rate)
+
+### Measured impact (per vessel)
+| Initiative | Impact |
+|---|---:|
+| 1) HV shore power receiving workflow redesign (AMP Reel) | **~714 MH saved** |
+| 2) Battery charger function test standardization | **~29 MH saved** |
+| 3) Ship network utilization expansion (hardwire I/O → network) | **~429 MH saved** |
+| 4) Navigation/communication commissioning procedure optimization | **~286 MH saved** |
+| 5) PMS verification process improvement | Reduced late-stage troubleshooting; improved repeatability |
+| 6) Generator parallel running & PF optimization (Droop → CCC) | Improved kVAr sharing stability; reduced tuning trial-and-error |
+
+> Potential combined impact (if items 1–4 apply to the same vessel): **~1,457 MH saved per vessel**
+
+---
+
+## Quick Navigation
+- [1) HV Shore Power Receiving (AMP Reel)](#1-hv-shore-power-receiving-amp-reel-integration)
+- [2) Battery Charger Function Test Standardization](#2-battery-charger-function-test-standardization)
+- [3) Ship Network Utilization Expansion](#3-ship-network-utilization-expansion-hardwire-io--network)
+- [4) Navigation/Communication Commissioning Procedure Optimization](#4-navigationcommunication-commissioning-procedure-optimization)
+- [5) PMS Verification Process Improvement](#5-pms-verification-process-improvement)
+- [6) Generator Parallel Running & PF Optimization (Droop → CCC)](#6-generator-parallel-running--pf-optimization-droop--ccc)
+
+---
+
+## Selected Projects (Details)
+
+### 1) HV Shore Power Receiving (AMP Reel Integration)
 **Problem**  
 Shore power cables were previously connected directly to the switchboard, increasing **electric shock risk** and raising concerns around **equipment protection** during handling/connection.
 
-**My contribution**
+**What I did**
 - Re-designed the shore power receiving process to utilize an **external AMP reel interface** instead of direct switchboard connection.
-- Defined a safer workflow (handling → connection → verification) and clarified boundaries between external interface and switchboard.
-- Coordinated practical adoption with production/commissioning stakeholders.
+- Defined a safer workflow (handling → connection → verification) and clarified interface boundaries.
+- Coordinated adoption with production/commissioning stakeholders.
 
 **Outcome**
 - Improved operational safety by reducing exposure at the switchboard connection point.
 - Strengthened equipment integrity through a more controlled connection interface.
-- **Man-hour impact:** **~720 MH saved per vessel** 
+- **Impact:** **~714 MH saved per vessel**
 
 ---
 
-#### 2) Standardized Function Testing for Shipboard Battery Chargers (Advanced Auto Charge/Discharge)
+### 2) Battery Charger Function Test Standardization
 **Context**  
 A project included a battery charger system with **temperature-dependent automatic charge/discharge control**, requiring more complex verification than typical builds.
 
-**My contribution**
+**What I did**
 - Standardized a repeatable **function test procedure** covering temperature-driven behavior and automatic sequences.
-- Defined acceptance criteria and test checkpoints to ensure consistent execution regardless of inspector/project team.
-- Documented the test logic for auditability and smoother handover.
+- Defined acceptance criteria and checkpoints for consistent execution across teams.
+- Improved auditability by documenting test logic clearly.
 
 **Outcome**
-- Improved inspection consistency and reduced rework caused by ambiguous test interpretations.
-- Increased test coverage for advanced control features vs. legacy “basic charger” test methods.
-- **Man-hour impact:** **~30 MH saved per vessel** 
+- Reduced ambiguity and rework caused by inconsistent interpretations.
+- Improved coverage for advanced control features vs. legacy “basic charger” testing.
+- **Impact:** **~29 MH saved per vessel**
 
 ---
 
-#### 3) Increasing Yard & Quay Utilization of Ship Network Systems (Training + Infrastructure)
+### 3) Ship Network Utilization Expansion (Hardwire I/O → Network)
 **Problem**  
-The ship network was used only for basic functions and performance was limited, reducing value for production and vessel management. In addition, many signals and integrations relied on **hardwired I/O**, which increased cable routing and installation workload.
+The ship network was used only for basic functions and performance was limited, reducing value for production and vessel management. Many integrations relied on **hardwired I/O**, increasing cable routing and installation workload.
 
-**My contribution**
-- Evaluated practical expansion use cases for ship network systems in production/operations.
-- Led the transition effort from **hardwired I/O connections to network-cable-based connectivity** where applicable, reducing overall cable pulling and routing volume.
-- Organized and hosted **in-house training** by inviting network specialists to educate internal teams.
+**What I did**
+- Expanded practical use cases for ship network systems in production/operations.
+- Led a transition where applicable from **hardwired I/O connections to network-cable-based connectivity**, reducing cable pulling and routing volume.
+- Coordinated internal training by inviting network specialists and promoting practical adoption.
 - Led quay-side network expansion initiatives to improve connectivity for alongside vessels.
-- Promoted real workflow adoption so the network supported daily vessel management tasks.
 
 **Outcome**
-- Reduced cable installation effort by lowering the amount of I/O cabling required through network-based integration.
-- Improved efficiency of quay-side vessel management through better connectivity and adoption.
-- Elevated internal capability via training and clearer use cases.
-- **Man-hour impact:** **~430 MH saved per vessel**
+- Reduced cable installation effort by lowering the amount of point-to-point I/O cabling required.
+- Improved quay-side vessel management efficiency through better connectivity and adoption.
+- **Impact:** **~429 MH saved per vessel**
 
 ---
 
-#### 4) Pre-Review and Optimization of Commissioning Procedures for Navigation & Communication Systems
+### 4) Navigation/Communication Commissioning Procedure Optimization
 **Context**  
 Navigation/communication systems vary substantially by vessel type (commercial vs. offshore), requiring detailed verification and a structured commissioning sequence.
 
-**My contribution**
-- Conducted an early, detailed review by cross-checking **vendor drawings / documentation** against **yard commissioning procedures** to identify misalignments.
-- Eliminated **duplicate and non-value-added inspection items** by consolidating overlapping steps and removing unnecessary checks without compromising verification integrity.
-- Coordinated with the **owner/client** to agree on an optimized, practical procedure and finalize it before execution.
-- Aligned the final procedure with the sea-trial plan to improve readiness and reduce on-site confusion.
+**What I did**
+- Cross-checked **vendor drawings/documentation** against **yard commissioning procedures** to identify misalignments.
+- Removed **duplicate and non-value-added inspection items** while preserving verification integrity.
+- Aligned and finalized an optimized procedure through coordination with the **owner/client**.
+- Improved readiness by ensuring the final procedure matched the sea-trial plan and acceptance checkpoints.
 
 **Outcome**
-- Shortened the sea-trial/commissioning schedule by executing a cleaner, optimized procedure with fewer redundant steps.
-- Reduced commissioning and inspection hours through improved readiness and clearer acceptance checkpoints.
-- Improved verification quality and consistency across different project configurations.
-- **Man-hour impact:** **~290 MH saved per vessel** 
+- Shortened sea-trial/commissioning schedule by executing a cleaner procedure with fewer redundant steps.
+- Improved clarity and consistency in execution and inspection.
+- **Impact:** **~286 MH saved per vessel**
 
 ---
 
-#### 5) Improving the Verification Process for the Ship Power Management System (PMS)
+### 5) PMS Verification Process Improvement
 **Problem / Pain Point**  
-PMS verification was often time-consuming and inconsistent due to variations in test sequence, unclear pass/fail criteria, and frequent late-stage findings during commissioning and sea trials.
+PMS verification could become time-consuming and inconsistent due to unclear sequencing and pass/fail criteria, often causing late-stage findings during commissioning and sea trials.
 
-**My contribution**
-- Refined the PMS verification workflow by structuring tests into clear phases (e.g., pre-checks → functional logic → integration scenarios → abnormal/blackout recovery).
-- Established repeatable check points and acceptance criteria for key PMS functions, such as:
+**What I did**
+- Re-structured PMS verification into clear phases (pre-checks → functional logic → integration scenarios → abnormal/blackout recovery).
+- Established repeatable checkpoints and acceptance criteria for key PMS functions:
   - generator start/stop permissives and interlocks  
-  - load-dependent start/stop logic (load sharing / load shedding / start inhibit)  
+  - load sharing / load shedding / start inhibit logic  
   - priority-based load shedding and restoration sequences  
   - blackout detection and recovery logic  
-  - alarms, events, and operator interface verification (HMI indications, logging)
-- Improved coordination between electrical commissioning, automation/control, and relevant vendors so that issues were captured earlier and resolved faster.
+  - alarms, events, and HMI verification (indications, logging)
+- Improved coordination between electrical commissioning, automation/control, and relevant vendors to catch issues earlier.
 
 **Outcome**
-- Reduced late-stage troubleshooting during commissioning by catching logic/configuration issues earlier.
-- Improved repeatability and auditability of PMS verification across vessels/projects.
+- Reduced late-stage troubleshooting by moving findings earlier in the process.
+- Improved repeatability and auditability across vessels/projects.
 
 ---
 
-#### 6) Generator Parallel Running & Power Factor (PF) Optimization (Droop → Cross Current Compensation)
+### 6) Generator Parallel Running & PF Optimization (Droop → CCC)
 **Problem / Objective**  
-When generators operate in parallel, poor reactive power sharing can lead to unstable bus voltage, circulating reactive currents, suboptimal PF, and repeated tuning during commissioning.
+In generator parallel operation, poor reactive power sharing can lead to unstable bus voltage, circulating reactive currents, suboptimal PF, and repeated tuning during commissioning.
 
-**My contribution**
-- Reviewed and applied generator reactive load-sharing fundamentals to improve stability in parallel operation:
-  - kW (real power) sharing vs. kVAR (reactive power) sharing  
-  - AVR behaviors and their impact on bus voltage and PF  
-- Led a gradual transition of the reactive load-sharing approach from **conventional droop** to **Cross Current Compensation (CCC)**.
-- Updated commissioning guidance and troubleshooting logic so teams could validate:
+**What I did**
+- Applied generator reactive load-sharing fundamentals to stabilize parallel operation (kW vs. kVAr sharing, AVR behavior).
+- Led a gradual transition of reactive load-sharing from **conventional droop** to **Cross Current Compensation (CCC)**.
+- Updated commissioning guidance and troubleshooting logic to validate:
   - stable kVAr sharing between generators  
   - reduced reactive circulating current  
   - improved voltage regulation under changing load conditions  
 
 **Why CCC can be better than droop (in practice)**
-- **More accurate kVAr sharing:** CCC helps generators share reactive power more evenly, which can reduce kVAr imbalance that sometimes remains under droop-based sharing.
-- **Reduced circulating reactive current:** By compensating cross-current effects, CCC can minimize unnecessary reactive circulation between machines, supporting more stable operation.
-- **Better voltage stability during parallel running:** CCC can maintain steadier bus voltage under varying reactive demand, reducing iterative tuning and “hunting” during trials.
+- **More accurate kVAr sharing:** CCC helps share reactive power more evenly than droop-only approaches in many practical scenarios.
+- **Reduced circulating reactive current:** CCC compensates cross-current effects, minimizing unnecessary reactive circulation between machines.
+- **Better voltage stability:** CCC can support steadier bus voltage during parallel running, reducing iterative tuning and “hunting” during trials.
 
 **Outcome**
-- Improved operational stability during generator parallel running and reduced trial-and-error tuning during commissioning.
-- Provided clearer, more repeatable guidance for PF-related tuning and diagnostics (less ambiguity, faster root-cause isolation).
+- Improved operational stability and reduced tuning trial-and-error during commissioning.
+- Clearer, more repeatable PF-related diagnostics and adjustment guidance.
 
+---
+
+## Keywords
+Marine Electrical · Commissioning · PMS · Generator Parallel Running · Power Factor · AVR · CCC · Shore Power · Ship Network · Process Improvement
