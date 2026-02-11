@@ -8,7 +8,7 @@
 - Ship network utilization expansion (training + quay infrastructure) → **~430 MH saved per vessel**
 - Navigation/communication commissioning procedure pre-review → **~290 MH saved per vessel**
 - PMS verification process improvement → **reduced late-stage troubleshooting and improved test repeatability**
-- Generator parallel running & PF optimization study → **improved operational stability and reduced tuning trial-and-error**
+- Generator parallel running & PF optimization (Droop → CCC) → **improved kVAr sharing stability and reduced tuning trial-and-error**
 
 
 ---
