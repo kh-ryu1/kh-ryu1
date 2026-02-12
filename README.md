@@ -64,7 +64,7 @@ Here is a curated list of engineering projects with technical documentation:
 
 * 📧 Email: [khyun7.ryu@gmail.com](mailto:khyun7.ryu@gmail.com)  
 * 💼 LinkedIn: [linkedin.com/in/kwanghyun-ryu-2aab86a0](https://linkedin.com/in/kwanghyun-ryu-2aab86a0)  
-* 📍 Based in Korea | Open to international opportunities  
+* 📍 Based in Korea | 🍁 Canada Work permit holder
 
 ---
 
