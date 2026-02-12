@@ -11,10 +11,10 @@ Practical process improvements delivered in shipbuilding / offshore project envi
 ### Measured impact (per vessel)
 | Initiative | Impact |
 |---|---:|
-| 1) HV shore power receiving workflow redesign (AMP Reel) | **~714 MH saved** |
-| 2) Battery charger function test standardization | **~29 MH saved** |
-| 3) Ship network utilization expansion (hardwire I/O → network) | **~429 MH saved** |
-| 4) Navigation/communication commissioning procedure optimization | **~286 MH saved** |
+| 1) HV shore power receiving workflow redesign (AMP Reel) | **~120 MH saved** |
+| 2) Battery charger function test standardization | **~30 MH saved** |
+| 3) Ship network utilization expansion (hardwire I/O → network) | **~420 MH saved** |
+| 4) Navigation/communication commissioning procedure optimization | **~290 MH saved** |
 | 5) PMS verification process improvement | Reduced late-stage troubleshooting; improved repeatability |
 | 6) Generator parallel running & PF optimization (Droop → CCC) | Improved kVAr sharing stability; reduced tuning trial-and-error |
 
@@ -46,7 +46,7 @@ Shore power cables were previously connected directly to the switchboard, increa
 **Outcome**
 - Improved operational safety by reducing exposure at the switchboard connection point.
 - Strengthened equipment integrity through a more controlled connection interface.
-- **Impact:** **~714 MH saved per vessel**
+- **Impact:** **~120 MH saved per vessel**
 
 ---
 
@@ -62,7 +62,7 @@ A project included a battery charger system with **temperature-dependent automat
 **Outcome**
 - Reduced ambiguity and rework caused by inconsistent interpretations.
 - Improved coverage for advanced control features vs. legacy “basic charger” testing.
-- **Impact:** **~29 MH saved per vessel**
+- **Impact:** **~30 MH saved per vessel**
 
 ---
 
@@ -79,7 +79,7 @@ The ship network was used only for basic functions and performance was limited, 
 **Outcome**
 - Reduced cable installation effort by lowering the amount of point-to-point I/O cabling required.
 - Improved quay-side vessel management efficiency through better connectivity and adoption.
-- **Impact:** **~429 MH saved per vessel**
+- **Impact:** **~420 MH saved per vessel**
 
 ---
 
@@ -96,7 +96,7 @@ Navigation/communication systems vary substantially by vessel type (commercial v
 **Outcome**
 - Shortened sea-trial/commissioning schedule by executing a cleaner procedure with fewer redundant steps.
 - Improved clarity and consistency in execution and inspection.
-- **Impact:** **~286 MH saved per vessel**
+- **Impact:** **~290 MH saved per vessel**
 
 ---
 
