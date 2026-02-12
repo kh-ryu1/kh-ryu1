@@ -16,7 +16,7 @@ Practical process improvements delivered in shipbuilding / offshore project envi
 | 3) Ship network utilization expansion (hardwire I/O → network) | **~420 MH saved** |
 | 4) Navigation/communication commissioning procedure optimization | **~290 MH saved** |
 | 5) PMS verification process improvement | Reduced late-stage troubleshooting; improved repeatability |
-| 6) Generator parallel running & PF optimization (Droop → CCC) | Improved kVAr sharing stability; reduced tuning trial-and-error |
+| 6) Generator parallel running & PF optimization (Droop → CCC) | Improved kVAR sharing stability; reduced tuning trial-and-error |
 
 > Potential combined impact (if items 1–4 apply to the same vessel): **~1,457 MH saved per vessel**
 
@@ -125,15 +125,15 @@ PMS verification could become time-consuming and inconsistent due to unclear seq
 In generator parallel operation, poor reactive power sharing can lead to unstable bus voltage, circulating reactive currents, suboptimal PF, and repeated tuning during commissioning.
 
 **What I did**
-- Applied generator reactive load-sharing fundamentals to stabilize parallel operation (kW vs. kVAr sharing, AVR behavior).
+- Applied generator reactive load-sharing fundamentals to stabilize parallel operation (kW vs. kVAR sharing, AVR behavior).
 - Led a gradual transition of reactive load-sharing from **conventional droop** to **Cross Current Compensation (CCC)**.
 - Updated commissioning guidance and troubleshooting logic to validate:
-  - stable kVAr sharing between generators  
+  - stable kVAR sharing between generators  
   - reduced reactive circulating current  
   - improved voltage regulation under changing load conditions  
 
 **Why CCC can be better than droop (in practice)**
-- **More accurate kVAr sharing:** CCC helps share reactive power more evenly than droop-only approaches in many practical scenarios.
+- **More accurate kVAR sharing:** CCC helps share reactive power more evenly than droop-only approaches in many practical scenarios.
 - **Reduced circulating reactive current:** CCC compensates cross-current effects, minimizing unnecessary reactive circulation between machines.
 - **Better voltage stability:** CCC can support steadier bus voltage during parallel running, reducing iterative tuning and “hunting” during trials.
 
