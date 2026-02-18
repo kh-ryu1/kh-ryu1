@@ -27,7 +27,7 @@ Here is a curated list of engineering projects with technical documentation:
 * 🏭 [TCO FGP-WPMP Modular Process Facilities Engineering](./TCO_Modular_Process_Facilities/README.md)
   *Design review, engineering improvement, and deployment readiness for ~100 modular oil production & refining units*
 
-* 🚢 [Ultra-Deepwater Drillship Electrical & ICSS Commissioning]
+* 🚢 [Ultra-Deepwater Drillship Electrical & ICSS Commissioning](./Drillship_Electrical_Commissioning/README.md)
   *Commissioning and safety validation of HV power, DP, ICSS, ESD, and F&G systems for offshore drilling vessels*
 
 * 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
