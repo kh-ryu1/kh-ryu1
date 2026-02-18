@@ -49,6 +49,8 @@ This project strengthened expertise in modular EPC execution, design optimizatio
 
 ### 📷 Project Highlights
 
-![Module Yard](images/module_yard.jpg)
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - M108 Load-out.JPG" alt="My photo" width="600">
+</p>
 ![Process Module Assembly](images/module_assembly.jpg)
 ![Heavy Transport Preparation](images/module_transport.jpg)
