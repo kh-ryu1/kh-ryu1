@@ -6,14 +6,6 @@ This project involved the fabrication and deployment of large-scale modular oil 
 
 ---
 
-### 📷 Project Highlights
-
-![Module Yard](images/module_yard.jpg)
-![Process Module Assembly](images/module_assembly.jpg)
-![Heavy Transport Preparation](images/module_transport.jpg)
-
----
-
 ### 🔧 Engineering Scope
 
 #### Design Review & Improvement
@@ -52,3 +44,11 @@ This project involved the fabrication and deployment of large-scale modular oil 
 
 ### 🌍 Project Significance
 This project strengthened expertise in modular EPC execution, design optimization, and deployment readiness for mega-scale oil & gas facilities.
+
+---
+
+### 📷 Project Highlights
+
+![Module Yard](images/module_yard.jpg)
+![Process Module Assembly](images/module_assembly.jpg)
+![Heavy Transport Preparation](images/module_transport.jpg)
