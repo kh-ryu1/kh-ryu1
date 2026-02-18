@@ -24,6 +24,12 @@ Here is a curated list of engineering projects with technical documentation:
 * 🛢️ [LNG Facility E&I Design and Commissioning](./LNG_Facility_Electrical_Design_and_Commissioning/README.md)
   *Electric, Instrument & Telecom design, and commissioning of LNG facility projects*
 
+* 🏭 [TCO FGP-WPMP Modular Process Facilities Engineering]
+  *Design review, engineering improvement, and deployment readiness for ~100 modular oil production & refining units*
+
+* 🚢 [Ultra-Deepwater Drillship Electrical & ICSS Commissioning]
+  *Commissioning and safety validation of HV power, DP, ICSS, ESD, and F&G systems for offshore drilling vessels*
+
 * 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
   *Design and commissioning of IAS, F&G, and ESD logic validation*
     
