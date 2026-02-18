@@ -52,5 +52,27 @@ This project strengthened expertise in modular EPC execution, design optimizatio
 <p align="center">
   <img src="/TCO_Modular_Process_Facilities/images/TCO - M108 Load-out.JPG" alt="My photo" width="600">
 </p>
-![Process Module Assembly](images/module_assembly.jpg)
-![Heavy Transport Preparation](images/module_transport.jpg)
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - M108 Completion.png" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - M092 Completion.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - M074 Load-out.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - Switchgear installation and preservation.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - Electric Equipment Room Cable arrangement.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - Cable trays arrangement.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - Cable connection check.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/TCO_Modular_Process_Facilities/images/TCO - 3D Model Review.png" alt="My photo" width="600">
+</p>
