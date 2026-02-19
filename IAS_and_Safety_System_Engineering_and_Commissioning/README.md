@@ -46,6 +46,14 @@ Engineering and commissioning of Integrated Automation Systems (IAS) and critica
   </p>
 </div>
 
+- <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
+  <p style="font-size:16px; margin-top:10px;">
+    Loop test punch list for F&G, ESD FAT on the drillship project: 
+    <a href="./DSME - 3618 Vantage Drillship - Loop test Punch list.pdf" target="_blank"><strong>FAT Report_Software stabilization work.pdf</strong></a>
+  </p>
+</div>
+
+
 ## Site Photos (FAT, SAT):
 
 <p align="center">
