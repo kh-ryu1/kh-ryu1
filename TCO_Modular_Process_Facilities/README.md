@@ -51,7 +51,7 @@ This project strengthened expertise in modular EPC execution, design optimizatio
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; max-width:650px; margin-bottom:20px;">
   <a href="https://www.chevron.com/newsroom/2024/q2/kazakhstan-project-reaches-new-milestone" target="_blank">
-    <img src="images/chevron_tco_module.jpg" width="600" style="border-radius:10px;">
+    <img src="./TCO_Modular_Process_Facilities/images/TCO - Chevron_tengiz_modules.png" width="600" style="border-radius:10px;">
   </a>
 
 _🔗 Click image to read the full article_
