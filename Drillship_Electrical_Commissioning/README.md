@@ -74,6 +74,10 @@ Delivered reliable and safe electrical and safety system performance for deepwat
 </p>
 
 <p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - Electric Equipment Room.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
   <img src="/Drillship_Electrical_Commissioning/images/TOD - FMEA test.JPG" alt="My photo" width="600">
 </p>
 
