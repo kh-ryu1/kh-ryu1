@@ -49,6 +49,7 @@ Delivered reliable and safe electrical and safety system performance for deepwat
 
 ### 📷 Vessel & Systems
 
-![Drillship Overview](images/drillship_overview.jpg)
-![DP Control Room](images/dp_control_room.jpg)
-![Drilling Derrick](images/drilling_derrick.jpg)
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - Overall.JPG" alt="My photo" width="600">
+</p>
+
