@@ -53,3 +53,32 @@ Delivered reliable and safe electrical and safety system performance for deepwat
   <img src="/Drillship_Electrical_Commissioning/images/TOD - Overall.JPG" alt="My photo" width="600">
 </p>
 
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - Generator Initial Start.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - Topside and Radar mast.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - Generator visual inspection.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - HV Switchboard Protection Test.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - ICSS commissioning.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - FMEA test.JPG" alt="My photo" width="600">
+</p>
+
+<p align="center">
+  <img src="/Drillship_Electrical_Commissioning/images/TOD - Drilling Test.JPG" alt="My photo" width="600">
+</p>
+
+
