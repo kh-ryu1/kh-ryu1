@@ -81,6 +81,4 @@ Here is a curated list of engineering projects with technical documentation:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=khryu)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khryu&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khryu)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
