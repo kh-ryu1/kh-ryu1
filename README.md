@@ -33,7 +33,7 @@ Here is a curated list of engineering projects with technical documentation:
 * 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
   *Design and commissioning of IAS, F&G, and ESD logic validation*
     
-* ⚡ [ETAP & Power System Analysis](./Protection_Coordination_Study/README.md)
+* ⚡ [ETAP & Power System Analysis](./ETAP_Studies/README.md)
   *Power system modeling, short circuit, load flow, arc flash, grounding and protection coordination studies*
 
 * ⚙️ [Commissioning & FAT for Electric Equipment](./Commissioning_Switchboards/README.md)
