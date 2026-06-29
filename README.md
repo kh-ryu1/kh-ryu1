@@ -13,7 +13,7 @@ I am currently based in Korea and authorized to work in both Korea and Canada (C
 * 📊 Certified [Project Management Professional (PMP®)](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/[Certificate]%20PMP%20Certfication_renewed.pdf) — Credentialed by PMI
 * ⚙️ Experienced in HV/LV systems, protection coordination, IAS/ICSS, and shipboard communication & navigation systems  
 * 🛰️ Strong interest in automation systems, IEC 60079, cybersecurity, and offshore substations (DNV-ST-0145)  
-* 💻 Proficient with ETAP(Electrical Transient Analysis Program), [Power BI](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/PowerBI_Tengizchevroil%20project%20-%20Field%20verification%20status%20report.pdf), SP3D NavisWorks, SAP, AutoCAD, and [advanced Microsoft Excel](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/[Certificate]%20MOS%20expert%202003.pdf)  
+* 💻 Proficient with [ETAP(Electrical Transient Analysis Program)](https://github.com/kh-ryu1/kh-ryu1/blob/e12e4b978f99be5a772b8c84f067b236eefc6286/Certificates/ETAP.pdf), [Power BI](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/PowerBI_Tengizchevroil%20project%20-%20Field%20verification%20status%20report.pdf), SP3D NavisWorks, SAP, AutoCAD, and [advanced Microsoft Excel](https://github.com/kh-ryu1/kh-ryu1/blob/main/Certificates/[Certificate]%20MOS%20expert%202003.pdf)  
 
 ---
 
