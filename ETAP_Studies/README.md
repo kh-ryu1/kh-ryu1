@@ -37,7 +37,7 @@ Studies performed based on international engineering standards for system design
 
 <td align="center" width="50%">
 <b>1. Load Flow Analysis</b><br><br>
-<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Load%20Flow%20Analysis.png" width="420" height="260"><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Load%20Flow%20Analysis.png" width="420" height="260"><br>
 Voltage profile, power flow distribution and equipment loading analysis.
 </td>
 
