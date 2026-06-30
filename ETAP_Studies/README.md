@@ -55,7 +55,7 @@ Fault current calculation based on IEC 60909 for equipment duty verification.
 
 <td align="center">
 <b>4. Protection Coordination</b><br><br>
-<img src="./images/protection_coordination.png" width="450"><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Protection%20Coordination.png" width="450"><br><br>
 TCC analysis for relay coordination and circuit breaker selectivity.
 </td>
 </tr>
@@ -63,13 +63,13 @@ TCC analysis for relay coordination and circuit breaker selectivity.
 <tr>
 <td align="center">
 <b>5. Arc Flash Analysis</b><br><br>
-<img src="./images/arc_flash.png" width="450"><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Arc%20Flash.png" width="450"><br><br>
 Incident energy calculation and PPE category evaluation for electrical safety.
 </td>
 
 <td align="center">
 <b>6. Ground Grid Study</b><br><br>
-<img src="./images/ground_grid.png" width="450"><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Ground%20Grid.png" width="450"><br><br>
 Ground resistance calculation, step voltage and touch voltage verification.
 </td>
 </tr>
