@@ -40,9 +40,8 @@ Voltage profile, power flow distribution and equipment loading analysis.
 </td>
 
 <td align="center">
-<b>2. Load Flow Analysis</b><br><br>
-<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Load%20Flow%20Analysis.png" width="450"><br><br>
-Voltage profile, power flow distribution and equipment loading analysis.
+<b>2. Motor Acceleration Analysis</b><br><br> <img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Motor%20Acceleration.png" width="450"><br><br> 
+Dynamic motor starting simulation to evaluate voltage dip, acceleration time and system stability during motor startup.
 </td>
 </tr>
 
