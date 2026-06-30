@@ -34,9 +34,9 @@ Studies performed based on international engineering standards for system design
 <table>
 <tr>
 <td align="center">
-<b>1. Power System Model</b><br><br>
-<img src="./images/one_line_diagram.png" width="450"><br><br>
-Industrial electrical one-line diagram including generators, transformers, motors and switchboards.
+<b>1. Load Flow Analysis</b><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Load%20Flow%20Analysis.png" width="450"><br><br>
+Voltage profile, power flow distribution and equipment loading analysis.
 </td>
 
 <td align="center">
@@ -49,7 +49,7 @@ Voltage profile, power flow distribution and equipment loading analysis.
 <tr>
 <td align="center">
 <b>3. Short Circuit Analysis</b><br><br>
-<img src="./images/short_circuit.png" width="450"><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/21c43b5014d443655785bd9db9ba097ede782200/ETAP_Studies/images/ETAP%20Short%20Citcuit.png" width="450"><br><br>
 Fault current calculation based on IEC 60909 for equipment duty verification.
 </td>
 
