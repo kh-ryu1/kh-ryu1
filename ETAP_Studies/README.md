@@ -41,7 +41,7 @@ Industrial electrical one-line diagram including generators, transformers, motor
 
 <td align="center">
 <b>2. Load Flow Analysis</b><br><br>
-<img src="./images/load_flow.png" width="450"><br><br>
+<img src="https://github.com/kh-ryu1/kh-ryu1/blob/cc581dcc9a10814bed549f4840a3ad8c50f787a7/ETAP_Studies/images/ETAP%20Load%20Flow%20Analysis.png" width="450"><br><br>
 Voltage profile, power flow distribution and equipment loading analysis.
 </td>
 </tr>
