@@ -9,6 +9,9 @@ These projects involved the detailed electrical design and commissioning of LNG 
 - Excelerate LNG FSRU (1 ship)
 - Eni Coral-Sul FLNG
 <p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_3965_Coral FLNG.jpg" alt="My photo" width="600">
+</p>
+<p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/DJI_0399.MP4_000028395 (2).jpg" alt="My photo" width="600">
 </p>
 <p align="center">
@@ -16,9 +19,6 @@ These projects involved the detailed electrical design and commissioning of LNG 
 </p>
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_0364_Coral FLNG.jpg" alt="My photo" width="600">
-</p>
-<p align="center">
-  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_3965_Coral FLNG.jpg" alt="My photo" width="600">
 </p>
 
 - Shell Prelude FLNG
