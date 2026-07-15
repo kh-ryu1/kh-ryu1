@@ -3,11 +3,7 @@
 ## Project Overview  
 These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and safe automation system.
 
-- Maran gas LNG Carriers (3 ships)
-- Korea line LNG Carrier (1 ship)
-- Awilco LNG Carrier (1 ship)
-- Excelerate LNG FSRU (1 ship)
-- Eni Coral-Sul FLNG
+- Eni Coral-Sul FLNG (Floating LNG)
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_3965_Coral FLNG.jpg" alt="My photo" width="600">
 </p>
@@ -21,7 +17,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_0364_Coral FLNG.jpg" alt="My photo" width="600">
 </p>
 
-- Shell Prelude FLNG
+- Shell Prelude FLNG (Floating LNG)
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1376_Prelude.jpg" alt="My photo" width="600">
 </p>
@@ -41,6 +37,11 @@ These projects involved the detailed electrical design and commissioning of LNG 
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/DJI_0339.jpg" alt="Qatar Energy NYKJV LNG Carrier" width="600">
 </p>
+
+- Maran gas LNG Carriers (3 ships)
+- Korea line LNG Carrier (1 ship)
+- Awilco LNG Carrier (1 ship)
+- Excelerate LNG FSRU (1 ship)
 
 ## Roles  
 - Electrical & Instrumentation Commissioning Engineer  
