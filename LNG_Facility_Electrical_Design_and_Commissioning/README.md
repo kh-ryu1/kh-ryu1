@@ -4,22 +4,32 @@
 These projects involved the detailed electrical design and commissioning of LNG processing and storage facilities, focusing on reliable power distribution and safe automation system.
 
 - Maran gas LNG Carriers (3 ships)
-<p align="center">
-  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/20131102_083919.jpg" alt="My photo" width="600">
-</p>
-
 - Korea line LNG Carrier (1 ship)
 - Awilco LNG Carrier (1 ship)
 - Excelerate LNG FSRU (1 ship)
-- Shell Prelude FLNG
 - Eni Coral-Sul FLNG
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/DJI_0399.MP4_000028395 (2).jpg" alt="My photo" width="600">
 </p>
-
-- AET Neptune LNG Fuel VLCCs (3 ships)
 <p align="center">
-  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/JUNG9141.JPG" alt="My photo" width="600">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_0357_Coral FLNG.jpg" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_0364_Coral FLNG.jpg" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_3965_Coral FLNG.jpg" alt="My photo" width="600">
+</p>
+
+- Shell Prelude FLNG
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1376_Prelude.jpg" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1222_Prelude.JPG" alt="My photo" width="600">
+</p>
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1378_Prelude.JPG" alt="My photo" width="600">
 </p>
 
 - CMA CGM LNG Fuel 7.3K TEU Containerships (10 ships)
