@@ -31,8 +31,8 @@ Here is a curated list of engineering projects with technical documentation:
 * 🚢 [Ultra-Deepwater Drillship Electrical & ICSS Commissioning](./Drillship_Electrical_Commissioning/README.md)
   *Commissioning and safety validation of HV power, DP, ICSS, ESD, and F&G systems for offshore drilling vessels*
 
-* 📊 [IAS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
-  *Design and commissioning of IAS, F&G, and ESD logic validation*
+* 📊 [DCS and Safety System Engineering and Commissioning](./IAS_and_Safety_System_Engineering_and_Commissioning/README.md)
+  *Design and commissioning of DCS, F&G, and ESD logic validation*
     
 * ⚡ [ETAP & Power System Analysis](./ETAP_Studies/README.md)
   *Power system modeling, short circuit, load flow, arc flash, grounding and protection coordination studies*
