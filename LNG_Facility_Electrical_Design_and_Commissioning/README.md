@@ -28,12 +28,12 @@ These projects involved the detailed electrical design and commissioning of LNG 
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1378_Prelude.JPG" alt="My photo" width="600">
 </p>
 
-- CMA CGM LNG Fuel 7.3K TEU Containerships (10 ships)
+- CMA CGM LNG Fuel 7.3K TEU Containerships
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_4042.PNG" alt="My photo" width="600">
 </p>
  
-- NYK LNG Carriers (7 ships)
+- NYK LNG Carriers
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1514.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
 </p>
@@ -50,10 +50,10 @@ These projects involved the detailed electrical design and commissioning of LNG 
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1519.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
 </p>
 
-- Maran gas LNG Carriers (3 ships)
-- Korea line LNG Carrier (1 ship)
-- Awilco LNG Carrier (1 ship)
-- Excelerate LNG FSRU (1 ship)
+- Maran gas LNG Carriers 
+- Korea line LNG Carrier 
+- Awilco LNG Carrier
+- Excelerate LNG FSRU
 
 ## Roles  
 - Electrical & Instrumentation Commissioning Engineer  
