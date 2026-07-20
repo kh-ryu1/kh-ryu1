@@ -17,7 +17,7 @@ These projects involved the detailed electrical design and commissioning of LNG 
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_0364_Coral FLNG.jpg" alt="My photo" width="600">
 </p>
 <p align="center">
-  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1513.JPEG.jpg" alt="My photo" width="600">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1513.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
 </p>
 
 - Shell Prelude FLNG (Floating LNG)
