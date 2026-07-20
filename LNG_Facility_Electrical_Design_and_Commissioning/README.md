@@ -27,11 +27,6 @@ These projects involved the detailed electrical design and commissioning of LNG 
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1378_Prelude.JPG" alt="My photo" width="600">
 </p>
-
-- CMA CGM LNG Fuel 7.3K TEU Containerships
-<p align="center">
-  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_4042.PNG" alt="My photo" width="600">
-</p>
  
 - NYK LNG Carriers
 <p align="center">
@@ -48,6 +43,11 @@ These projects involved the detailed electrical design and commissioning of LNG 
 
 <p align="center">
   <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1519.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
+</p>
+
+- CMA CGM LNG Fuel 7.3K TEU Containerships
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_4042.PNG" alt="My photo" width="600">
 </p>
 
 - Maran gas LNG Carriers 
