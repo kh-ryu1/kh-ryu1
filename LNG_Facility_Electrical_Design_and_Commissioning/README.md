@@ -35,7 +35,19 @@ These projects involved the detailed electrical design and commissioning of LNG 
  
 - NYK LNG Carriers (7 ships)
 <p align="center">
-  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/DJI_0339.jpg" alt="Qatar Energy NYKJV LNG Carrier" width="600">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1514.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
+</p>
+
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1516.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
+</p>
+
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1518.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
+</p>
+
+<p align="center">
+  <img src="/LNG_Facility_Electrical_Design_and_Commissioning/IMG_1519.JPEG" alt="Qatar Energy NYKJV LNG Carrier" width="600">
 </p>
 
 - Maran gas LNG Carriers (3 ships)
